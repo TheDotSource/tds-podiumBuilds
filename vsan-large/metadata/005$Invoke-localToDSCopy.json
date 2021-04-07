@@ -1,0 +1,8 @@
+[
+{
+	"localFile": "<@@>esxiIso</@@>",
+	"datastore": "<@@>physicalDatastore</@@>",
+	"targetFolder": "ISOs",
+	"workflowAttrib": "esxiIsoDsPath"
+}
+]

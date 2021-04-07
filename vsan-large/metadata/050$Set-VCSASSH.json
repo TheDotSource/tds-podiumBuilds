@@ -1,0 +1,7 @@
+[
+{
+	"vcsa": "<@@>VCSASystemName</@@>",
+	"sshEnable": true,
+	"Credential": "@@vcsaSsoAdmin"
+}
+]

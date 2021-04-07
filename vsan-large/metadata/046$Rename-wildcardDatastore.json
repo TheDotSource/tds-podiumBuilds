@@ -1,0 +1,38 @@
+[
+{
+	"vmHost": "<@@>nestedHostName01</@@>",
+	"wildcard": "scratch"
+},
+{
+	"vmHost": "<@@>nestedHostName02</@@>",
+	"wildcard": "scratch"
+},
+{
+	"vmHost": "<@@>nestedHostName03</@@>",
+	"wildcard": "scratch"
+},
+{
+	"vmHost": "<@@>nestedHostName04</@@>",
+	"wildcard": "scratch"
+},
+{
+	"vmHost": "<@@>nestedHostName05</@@>",
+	"wildcard": "scratch"
+},
+{
+	"vmHost": "<@@>nestedHostName06</@@>",
+	"wildcard": "scratch"
+},
+{
+	"vmHost": "<@@>nestedHostName07</@@>",
+	"wildcard": "scratch"
+},
+{
+	"vmHost": "<@@>nestedHostName08</@@>",
+	"wildcard": "scratch"
+},
+{
+	"vmHost": "<@@>nestedHostName09</@@>",
+	"wildcard": "scratch"
+}
+]

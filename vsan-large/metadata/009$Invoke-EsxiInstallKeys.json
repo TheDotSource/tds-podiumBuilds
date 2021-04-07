@@ -1,0 +1,47 @@
+[
+{
+	"vmName": "<@@>esxHostVMName01</@@>",
+	"credential": "@@esxiRoot",
+	"cpuWarning": true
+},
+{
+	"vmName": "<@@>esxHostVMName02</@@>",
+	"credential": "@@esxiRoot",
+	"cpuWarning": true
+},
+{
+	"vmName": "<@@>esxHostVMName03</@@>",
+	"credential": "@@esxiRoot",
+	"cpuWarning": true
+},
+{
+	"vmName": "<@@>esxHostVMName04</@@>",
+	"credential": "@@esxiRoot",
+	"cpuWarning": true
+},
+{
+	"vmName": "<@@>esxHostVMName05</@@>",
+	"credential": "@@esxiRoot",
+	"cpuWarning": true
+},
+{
+	"vmName": "<@@>esxHostVMName06</@@>",
+	"credential": "@@esxiRoot",
+	"cpuWarning": true
+},
+{
+	"vmName": "<@@>esxHostVMName07</@@>",
+	"credential": "@@esxiRoot",
+	"cpuWarning": true
+},
+{
+	"vmName": "<@@>esxHostVMName08</@@>",
+	"credential": "@@esxiRoot",
+	"cpuWarning": true
+},
+{
+	"vmName": "<@@>esxHostVMName09</@@>",
+	"credential": "@@esxiRoot",
+	"cpuWarning": true
+}
+]

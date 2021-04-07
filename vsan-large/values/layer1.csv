@@ -1,0 +1,16 @@
+Key,Value,DataType,Description
+hostVcsa,CHANGEME,String,Target vCenter containing the physical host to deploy the nested hosts to.
+physicalDatastore,CHANGEME,String,Datastore name on physical host to deploy nested hosts to.
+physicalHost,CHANGEME,String,Physical host to deploy nested hosts to.
+layer1VCSA,layer1VCSA.json,Credential,The VCSA hosting the target physical ESXi host.
+esxHostVMName01,pod01esx01,String,VM name for nested host 01.
+esxHostVMName02,pod01esx02,String,VM name for nested host 02.
+esxHostVMName03,pod01esx03,String,VM name for nested host 03.
+esxHostVMName04,pod01esx04,String,VM name for nested host 04.
+esxHostVMName05,pod01esx05,String,VM name for nested host 05.
+esxHostVMName06,pod01esx06,String,VM name for nested host 06.
+esxHostVMName07,pod01esx07,String,VM name for nested host 07.
+esxHostVMName08,pod01esx08,String,VM name for nested host 08.
+esxHostVMName09,pod01esx09,String,VM name for nested host 09.
+esxNestedNet01,pg01pod01,String,Port group on physical host to attach nested ESXi network.
+esxNestedNet02,pg02pod01,String,Port group on physical host to attach nested ESXi network.

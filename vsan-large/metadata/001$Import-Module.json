@@ -1,0 +1,14 @@
+[
+{
+	"name": "d:\\Podium\\Modules\\tds-nestedESXi\\tds-nestedESXi.psd1",
+	"Force": true
+},
+{
+	"name": "d:\\Podium\\Modules\\tds-vSphere\\tds-vSphere.psd1",
+	"Force": true
+},
+{
+	"name": "d:\\Podium\\Modules\\tds-winUtils\\tds-winUtils.psd1",
+	"Force": true
+}
+]

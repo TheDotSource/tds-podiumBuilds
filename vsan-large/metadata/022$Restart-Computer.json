@@ -1,0 +1,10 @@
+[
+{
+	"computerName": "<@@>winVMIP</@@>",
+	"Wait": true,
+	"For": "WinRM",
+	"Force": true,
+	"Credential": "@@winAdmin"
+
+}
+]

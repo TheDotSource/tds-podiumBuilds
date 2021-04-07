@@ -1,0 +1,82 @@
+Key,Value,DataType,Description
+esxiIso,10,DML,DML index of ESXi ISO media.
+custClusterName,PODCUST,String,Customer cluster name.
+custVsanDatastore,custVsan,String,Customer cluster vSAN datastore name.
+datacenterName,Lab,String,Lab environment datacenter name.
+dnsReverseNetId,,NETALLOCATION#pod-mgmt#NETID,Automatic network ID for reverse lookup zone.
+dnsReverseNetMaskLength,24,String,Net mask length for DNS reverse lookup zone.
+domainFQDN,pod.local,String,FQDN of active directory domain.
+domainNetbios,pod,String,NetBIOS name of active directory domain.
+dvs01MTU,1500,String,DVS01 MTU size.
+dvs01Name,LAB-DVS-1500,String,DVS 01 name.
+dvs01UplinkCount,2,String,DVS 01 uplink count.
+dvs02MTU,9000,String,DVS02 MTU size.
+dvs02Name,LAB-DVS-9000,String,DVS 02 name.
+dvs02UplinkCount,2,String,DVS 02 uplink count.
+esxiRoot,esxiRoot.json,Credential,The root credential of the nested ESXi hosts.
+esxiScratchLUN,vmhba0:C0:T1:L0,String,Identifier for scratch volume on the nested ESXi host.
+esxiScratchName,SCRATCH,String,Datastore name for ESXi scratch volume.
+host01VmotVMKIP,,NETALLOCATION#pod-vmot#NEWIP,Automatic IP assignment for host 01 vMotion VMK.
+host01VsanVMKIP,,NETALLOCATION#pod-vsan#NEWIP,Automatic IP assignment for host 01 vSAN VMK.
+host02VmotVMKIP,,NETALLOCATION#pod-vmot#NEWIP,Automatic IP assignment for host 02 vMotion VMK.
+host02VsanVMKIP,,NETALLOCATION#pod-vsan#NEWIP,Automatic IP assignment for host 02 vSAN VMK.
+host03VmotVMKIP,,NETALLOCATION#pod-vmot#NEWIP,Automatic IP assignment for host 03 vMotion VMK.
+host03VsanVMKIP,,NETALLOCATION#pod-vsan#NEWIP,Automatic IP assignment for host 03 vSAN VMK.
+host04VmotVMKIP,,NETALLOCATION#pod-vmot#NEWIP,Automatic IP assignment for host 04 vMotion VMK.
+host04VsanVMKIP,,NETALLOCATION#pod-vsan#NEWIP,Automatic IP assignment for host 04 vSAN VMK.
+host05VmotVMKIP,,NETALLOCATION#pod-vmot#NEWIP,Automatic IP assignment for host 05 vMotion VMK.
+host05VsanVMKIP,,NETALLOCATION#pod-vsan#NEWIP,Automatic IP assignment for host 05 vSAN VMK.
+host06VmotVMKIP,,NETALLOCATION#pod-vmot#NEWIP,Automatic IP assignment for host 06 vMotion VMK.
+host06VsanVMKIP,,NETALLOCATION#pod-vsan#NEWIP,Automatic IP assignment for host 06 vSAN VMK.
+host07VmotVMKIP,,NETALLOCATION#pod-vmot#NEWIP,Automatic IP assignment for host 07 vMotion VMK.
+host07VsanVMKIP,,NETALLOCATION#pod-vsan#NEWIP,Automatic IP assignment for host 07 vSAN VMK.
+host08VmotVMKIP,,NETALLOCATION#pod-vmot#NEWIP,Automatic IP assignment for host 08 vMotion VMK.
+host08VsanVMKIP,,NETALLOCATION#pod-vsan#NEWIP,Automatic IP assignment for host 08 vSAN VMK.
+host09VmotVMKIP,,NETALLOCATION#pod-vmot#NEWIP,Automatic IP assignment for host 09 vMotion VMK.
+host09VsanVMKIP,,NETALLOCATION#pod-vsan#NEWIP,Automatic IP assignment for host 09 vSAN VMK.
+hostVmotVMKMask,,NETALLOCATION#pod-vmot#NETMASK,Automatic net mask assignment for vMotion VMKs.
+hostVsanVMKMask,,NETALLOCATION#pod-vsan#NETMASK,Automatic net mask assignment for vSAN VMKs.
+localAdapter,Private,String,Name of private network adapter on local jump box.
+mgmtClusterName,PODMGMT,String,Management cluster name.
+mgmtVsanDatastore,mgmtVsan,String,Management cluster vSAN datastore name.
+nestedHostName01,podesx01.pod.local,String,Hostname for nested host 01.
+nestedHostName02,podesx02.pod.local,String,Hostname for nested host 02.
+nestedHostName03,podesx03.pod.local,String,Hostname for nested host 03.
+nestedHostName04,podesx04.pod.local,String,Hostname for nested host 04.
+nestedHostName05,podesx05.pod.local,String,Hostname for nested host 05.
+nestedHostName06,podesx06.pod.local,String,Hostname for nested host 06.
+nestedHostName07,podesx07.pod.local,String,Hostname for nested host 07.
+nestedHostName08,podesx08.pod.local,String,Hostname for nested host 08.
+nestedHostName09,podesx09.pod.local,String,Hostname for nested host 09.
+nestedIP01,,NETALLOCATION#pod-mgmt#NEWIP,Automatic IP assignment for nested host 01.
+nestedIP02,,NETALLOCATION#pod-mgmt#NEWIP,Automatic IP assignment for nested host 02.
+nestedIP03,,NETALLOCATION#pod-mgmt#NEWIP,Automatic IP assignment for nested host 03.
+nestedIP04,,NETALLOCATION#pod-mgmt#NEWIP,Automatic IP assignment for nested host 04.
+nestedIP05,,NETALLOCATION#pod-mgmt#NEWIP,Automatic IP assignment for nested host 05.
+nestedIP06,,NETALLOCATION#pod-mgmt#NEWIP,Automatic IP assignment for nested host 06.
+nestedIP07,,NETALLOCATION#pod-mgmt#NEWIP,Automatic IP assignment for nested host 07.
+nestedIP08,,NETALLOCATION#pod-mgmt#NEWIP,Automatic IP assignment for nested host 08.
+nestedIP09,,NETALLOCATION#pod-mgmt#NEWIP,Automatic IP assignment for nested host 09.
+nestedReserveMem,false,string,Set memory reservations on nested hosts to prevent VM swap files being created.
+net01GW,,NETALLOCATION#pod-mgmt#GATEWAY,Automatic assignment of gateway for management network.
+net01Mask,,NETALLOCATION#pod-mgmt#NETMASK,Automatic assignment for net mask for management network.
+pg01Name,pg-mgmt,String,Port group 01 name.
+pg02Name,pg-cust,String,Port gorup 02 name.
+pg03Name,pg-vmotion,String,Port group 03 name.
+pg04Name,pg-vsan,String,Port group 04 name.
+tmpVsanDatastore,vsanDatastore,String,Initial vSAN datastore name.
+VCSAMgmtIP,,NETALLOCATION#pod-mgmt#NEWIP,Automatic IP assignment for VCSA management address.
+VCSADeploymentOption,Small,vcsaAppSize,VCSA appliance size.
+VCSANetwork,VM Network,String,Initial port group for VCSA deployment. This is a temporary standard portgroup.
+VCSASSODomain,vsphere.local,String,VCSA SSO domain name.
+VCSASystemName,podvcsa.pod.local,FQDN,VCSA system name.
+VCSAVMName,podvcsa,String,VCSA VM name.
+VCSAISODML,9,DML,DML index of VCSA media.
+vcsaRoot,vcsaRoot.json,Credential,The Pod VCSA root credential.
+vcsaSsoAdmin,vcsaSsoAdmin.json,Credential,The Pod VCSA SSO credential.
+vSwitch,vSwitch0,String,Standard switch name.
+winAdmin,winAdmin.json,Credential,The Pod Windows and Active Directory administrator credential.
+winOVAIndex,1,DML,DML index for Windows OVA.
+winVMIP,,NETALLOCATION#pod-mgmt#NEWIP,Automatic IP assignment for Windows.
+winVMMaskLength,24,String,Net mask length for Windows VM.
+winVMName,poddc01,String,Windows VM name.

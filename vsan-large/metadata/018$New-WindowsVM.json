@@ -1,0 +1,13 @@
+[
+{
+	"esxHost": "<@@>nestedIP01</@@>",
+	"ovfPath": "<@@>winOVAIndex</@@>",
+	"vmName": "<@@>winVMName</@@>",
+	"dataStore": "<@@>tmpVsanDatastore</@@>",
+	"vmIP": "<@@>winVMIP</@@>",
+	"vmMaskLength": "<@@>winVMMaskLength</@@>",
+	"vmDns": "<@@>winVMIP</@@>",
+	"vmGateway": "<@@>net01GW</@@>",
+	"Credential": "@@winAdmin"
+}
+]

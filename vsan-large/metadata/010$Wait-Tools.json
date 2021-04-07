@@ -1,0 +1,29 @@
+[
+{
+	"vm": "<@@>esxHostVMName01</@@>"
+},
+{
+	"vm": "<@@>esxHostVMName02</@@>"
+},
+{
+	"vm": "<@@>esxHostVMName03</@@>"
+},
+{
+	"vm": "<@@>esxHostVMName04</@@>"
+},
+{
+	"vm": "<@@>esxHostVMName05</@@>"
+},
+{
+	"vm": "<@@>esxHostVMName06</@@>"
+},
+{
+	"vm": "<@@>esxHostVMName07</@@>"
+},
+{
+	"vm": "<@@>esxHostVMName08</@@>"
+},
+{
+	"vm": "<@@>esxHostVMName09</@@>"
+}
+]

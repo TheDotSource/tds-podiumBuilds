@@ -1,0 +1,16 @@
+[
+{
+	"Name": "<@@>mgmtClusterName</@@>",
+	"location": "<@@>datacenterName</@@>",
+	"HAEnabled": false,
+	"DrsEnabled": false,
+	"vsanenabled": true
+},
+{
+	"Name": "<@@>custClusterName</@@>",
+	"location": "<@@>datacenterName</@@>",
+	"HAEnabled": false,
+	"DrsEnabled": false,
+	"vsanenabled": true
+}
+]

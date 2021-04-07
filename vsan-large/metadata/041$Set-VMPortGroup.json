@@ -1,0 +1,10 @@
+[
+{
+	"vmName": "<@@>VCSAVMName</@@>",
+	"portGroup": "<@@>pg01Name</@@>"
+},
+{
+	"vmName": "<@@>winVMName</@@>",
+	"portGroup": "<@@>pg01Name</@@>"
+}
+]

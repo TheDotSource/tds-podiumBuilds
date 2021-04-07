@@ -1,0 +1,9 @@
+[
+{
+	"credential": "@@winAdmin",
+	"hostName": "<@@>winVMIP</@@>",
+	"domainFQDN": "<@@>domainFQDN</@@>",
+	"domainNetbios": "<@@>domainNetbios</@@>"
+
+}
+]

@@ -1,0 +1,56 @@
+[
+{
+	"Name": "<@@>nestedHostName01</@@>",
+	"location": "<@@>mgmtClusterName</@@>",
+	"Credential": "@@esxiRoot",
+	"Force": true
+},
+{
+	"Name": "<@@>nestedHostName02</@@>",
+	"location": "<@@>mgmtClusterName</@@>",
+	"Credential": "@@esxiRoot",
+	"Force": true
+},
+{
+	"Name": "<@@>nestedHostName03</@@>",
+	"location": "<@@>mgmtClusterName</@@>",
+	"Credential": "@@esxiRoot",
+	"Force": true
+},
+{
+	"Name": "<@@>nestedHostName04</@@>",
+	"location": "<@@>custClusterName</@@>",
+	"Credential": "@@esxiRoot",
+	"Force": true
+},
+{
+	"Name": "<@@>nestedHostName05</@@>",
+	"location": "<@@>custClusterName</@@>",
+	"Credential": "@@esxiRoot",
+	"Force": true
+},
+{
+	"Name": "<@@>nestedHostName06</@@>",
+	"location": "<@@>custClusterName</@@>",
+	"Credential": "@@esxiRoot",
+	"Force": true
+},
+{
+	"Name": "<@@>nestedHostName07</@@>",
+	"location": "<@@>custClusterName</@@>",
+	"Credential": "@@esxiRoot",
+	"Force": true
+},
+{
+	"Name": "<@@>nestedHostName08</@@>",
+	"location": "<@@>custClusterName</@@>",
+	"Credential": "@@esxiRoot",
+	"Force": true
+},
+{
+	"Name": "<@@>nestedHostName09</@@>",
+	"location": "<@@>custClusterName</@@>",
+	"Credential": "@@esxiRoot",
+	"Force": true
+}
+]

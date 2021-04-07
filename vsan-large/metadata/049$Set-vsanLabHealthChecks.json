@@ -1,0 +1,10 @@
+[
+{
+	"cluster": "<@@>mgmtClusterName</@@>",
+	"labHealthCheckState": "disabled"
+},
+{
+	"cluster": "<@@>custClusterName</@@>",
+	"labHealthCheckState": "disabled"
+}
+]

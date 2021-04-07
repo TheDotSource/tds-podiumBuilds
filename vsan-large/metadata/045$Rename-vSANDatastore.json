@@ -1,0 +1,12 @@
+[
+{
+	"clusterName": "<@@>mgmtClusterName</@@>",
+	"datastoreName": "<@@>mgmtVsanDatastore</@@>"
+
+},
+{
+	"clusterName": "<@@>custClusterName</@@>",
+	"datastoreName": "<@@>custVsanDatastore</@@>"
+
+}
+]

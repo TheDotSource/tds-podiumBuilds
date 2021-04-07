@@ -1,0 +1,183 @@
+[
+{
+	"vmhost": "<@@>nestedHostName01</@@>",
+	"virtualswitch": "<@@>dvs02Name</@@>",
+	"portGroup": "<@@>pg04Name</@@>",
+	"ip": "<@@>host01VsanVMKIP</@@>",
+	"subnetMask": "<@@>hostVsanVMKMask</@@>",
+	"mtu": "<@@>dvs02MTU</@@>",
+	"VsanTrafficEnabled": true,
+	"VMotionEnabled": false
+
+},
+{
+	"vmhost": "<@@>nestedHostName02</@@>",
+	"virtualswitch": "<@@>dvs02Name</@@>",
+	"portGroup": "<@@>pg04Name</@@>",
+	"ip": "<@@>host02VsanVMKIP</@@>",
+	"subnetMask": "<@@>hostVsanVMKMask</@@>",
+	"mtu": "<@@>dvs02MTU</@@>",
+	"VsanTrafficEnabled": true,
+	"VMotionEnabled": false
+},
+{
+	"vmhost": "<@@>nestedHostName03</@@>",
+	"virtualswitch": "<@@>dvs02Name</@@>",
+	"portGroup": "<@@>pg04Name</@@>",
+	"ip": "<@@>host03VsanVMKIP</@@>",
+	"subnetMask": "<@@>hostVsanVMKMask</@@>",
+	"mtu": "<@@>dvs02MTU</@@>",
+	"VsanTrafficEnabled": true,
+	"VMotionEnabled": false
+},
+{
+	"vmhost": "<@@>nestedHostName04</@@>",
+	"virtualswitch": "<@@>dvs02Name</@@>",
+	"portGroup": "<@@>pg04Name</@@>",
+	"ip": "<@@>host04VsanVMKIP</@@>",
+	"subnetMask": "<@@>hostVsanVMKMask</@@>",
+	"mtu": "<@@>dvs02MTU</@@>",
+	"VsanTrafficEnabled": true,
+	"VMotionEnabled": false
+},
+{
+	"vmhost": "<@@>nestedHostName05</@@>",
+	"virtualswitch": "<@@>dvs02Name</@@>",
+	"portGroup": "<@@>pg04Name</@@>",
+	"ip": "<@@>host05VsanVMKIP</@@>",
+	"subnetMask": "<@@>hostVsanVMKMask</@@>",
+	"mtu": "<@@>dvs02MTU</@@>",
+	"VsanTrafficEnabled": true,
+	"VMotionEnabled": false
+},
+{
+	"vmhost": "<@@>nestedHostName06</@@>",
+	"virtualswitch": "<@@>dvs02Name</@@>",
+	"portGroup": "<@@>pg04Name</@@>",
+	"ip": "<@@>host06VsanVMKIP</@@>",
+	"subnetMask": "<@@>hostVsanVMKMask</@@>",
+	"mtu": "<@@>dvs02MTU</@@>",
+	"VsanTrafficEnabled": true,
+	"VMotionEnabled": false
+},
+{
+	"vmhost": "<@@>nestedHostName07</@@>",
+	"virtualswitch": "<@@>dvs02Name</@@>",
+	"portGroup": "<@@>pg04Name</@@>",
+	"ip": "<@@>host07VsanVMKIP</@@>",
+	"subnetMask": "<@@>hostVsanVMKMask</@@>",
+	"mtu": "<@@>dvs02MTU</@@>",
+	"VsanTrafficEnabled": true,
+	"VMotionEnabled": false
+},
+{
+	"vmhost": "<@@>nestedHostName08</@@>",
+	"virtualswitch": "<@@>dvs02Name</@@>",
+	"portGroup": "<@@>pg04Name</@@>",
+	"ip": "<@@>host08VsanVMKIP</@@>",
+	"subnetMask": "<@@>hostVsanVMKMask</@@>",
+	"mtu": "<@@>dvs02MTU</@@>",
+	"VsanTrafficEnabled": true,
+	"VMotionEnabled": false
+},
+{
+	"vmhost": "<@@>nestedHostName09</@@>",
+	"virtualswitch": "<@@>dvs02Name</@@>",
+	"portGroup": "<@@>pg04Name</@@>",
+	"ip": "<@@>host09VsanVMKIP</@@>",
+	"subnetMask": "<@@>hostVsanVMKMask</@@>",
+	"mtu": "<@@>dvs02MTU</@@>",
+	"VsanTrafficEnabled": true,
+	"VMotionEnabled": false
+},
+{
+	"vmhost": "<@@>nestedHostName01</@@>",
+	"virtualswitch": "<@@>dvs01Name</@@>",
+	"portGroup": "<@@>pg03Name</@@>",
+	"ip": "<@@>host01VmotVMKIP</@@>",
+	"subnetMask": "<@@>hostVmotVMKMask</@@>",
+	"mtu": "<@@>dvs01MTU</@@>",
+	"VsanTrafficEnabled": false,
+	"VMotionEnabled": true
+},
+{
+	"vmhost": "<@@>nestedHostName02</@@>",
+	"virtualswitch": "<@@>dvs01Name</@@>",
+	"portGroup": "<@@>pg03Name</@@>",
+	"ip": "<@@>host02VmotVMKIP</@@>",
+	"subnetMask": "<@@>hostVmotVMKMask</@@>",
+	"mtu": "<@@>dvs01MTU</@@>",
+	"VsanTrafficEnabled": false,
+	"VMotionEnabled": true
+},
+{
+	"vmhost": "<@@>nestedHostName03</@@>",
+	"virtualswitch": "<@@>dvs01Name</@@>",
+	"portGroup": "<@@>pg03Name</@@>",
+	"ip": "<@@>host03VmotVMKIP</@@>",
+	"subnetMask": "<@@>hostVmotVMKMask</@@>",
+	"mtu": "<@@>dvs01MTU</@@>",
+	"VsanTrafficEnabled": false,
+	"VMotionEnabled": true
+},
+{
+	"vmhost": "<@@>nestedHostName04</@@>",
+	"virtualswitch": "<@@>dvs01Name</@@>",
+	"portGroup": "<@@>pg03Name</@@>",
+	"ip": "<@@>host04VmotVMKIP</@@>",
+	"subnetMask": "<@@>hostVmotVMKMask</@@>",
+	"mtu": "<@@>dvs01MTU</@@>",
+	"VsanTrafficEnabled": false,
+	"VMotionEnabled": true
+},
+{
+	"vmhost": "<@@>nestedHostName05</@@>",
+	"virtualswitch": "<@@>dvs01Name</@@>",
+	"portGroup": "<@@>pg03Name</@@>",
+	"ip": "<@@>host05VmotVMKIP</@@>",
+	"subnetMask": "<@@>hostVmotVMKMask</@@>",
+	"mtu": "<@@>dvs01MTU</@@>",
+	"VsanTrafficEnabled": false,
+	"VMotionEnabled": true
+},
+{
+	"vmhost": "<@@>nestedHostName06</@@>",
+	"virtualswitch": "<@@>dvs01Name</@@>",
+	"portGroup": "<@@>pg03Name</@@>",
+	"ip": "<@@>host06VmotVMKIP</@@>",
+	"subnetMask": "<@@>hostVmotVMKMask</@@>",
+	"mtu": "<@@>dvs01MTU</@@>",
+	"VsanTrafficEnabled": false,
+	"VMotionEnabled": true
+},
+{
+	"vmhost": "<@@>nestedHostName07</@@>",
+	"virtualswitch": "<@@>dvs01Name</@@>",
+	"portGroup": "<@@>pg03Name</@@>",
+	"ip": "<@@>host07VmotVMKIP</@@>",
+	"subnetMask": "<@@>hostVmotVMKMask</@@>",
+	"mtu": "<@@>dvs01MTU</@@>",
+	"VsanTrafficEnabled": false,
+	"VMotionEnabled": true
+},
+{
+	"vmhost": "<@@>nestedHostName08</@@>",
+	"virtualswitch": "<@@>dvs01Name</@@>",
+	"portGroup": "<@@>pg03Name</@@>",
+	"ip": "<@@>host08VmotVMKIP</@@>",
+	"subnetMask": "<@@>hostVmotVMKMask</@@>",
+	"mtu": "<@@>dvs01MTU</@@>",
+	"VsanTrafficEnabled": false,
+	"VMotionEnabled": true
+},
+{
+	"vmhost": "<@@>nestedHostName09</@@>",
+	"virtualswitch": "<@@>dvs01Name</@@>",
+	"portGroup": "<@@>pg03Name</@@>",
+	"ip": "<@@>host09VmotVMKIP</@@>",
+	"subnetMask": "<@@>hostVmotVMKMask</@@>",
+	"mtu": "<@@>dvs01MTU</@@>",
+	"VsanTrafficEnabled": false,
+	"VMotionEnabled": true
+}
+]

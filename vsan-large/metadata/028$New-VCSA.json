@@ -1,0 +1,20 @@
+[
+	{
+		"deploymentSize": "<@@>VCSADeploymentOption</@@>",
+		"esxiHost": "<@@>nestedIP01</@@>",
+		"network": "<@@>VCSANetwork</@@>",
+		"datastore": "<@@>tmpVsanDatastore</@@>",
+		"systemName": "<@@>VCSASystemName</@@>",
+		"dns": "<@@>winVMIP</@@>",
+		"gateway": "<@@>net01GW</@@>",
+		"ip": "<@@>VCSAMgmtIP</@@>",
+		"netMask": "<@@>net01Mask</@@>",
+		"osCredential": "@@vcsaRoot",
+		"ntp": "<@@>winVMIP</@@>",
+		"ssoCredential": "@@vcsaSsoAdmin",
+		"ssoDomain": "<@@>VCSASSODomain</@@>",
+		"vmName": "<@@>VCSAVMName</@@>",
+		"logDir": "<@@>logDirectory</@@>",
+		"esxiCredential": "@@esxiRoot"
+	}
+]

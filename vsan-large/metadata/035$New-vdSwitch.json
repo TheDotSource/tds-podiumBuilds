@@ -1,0 +1,14 @@
+[
+{
+	"location": "<@@>datacenterName</@@>",
+	"name": "<@@>dvs01Name</@@>",
+	"NumUplinkPorts": "<@@>dvs01UplinkCount</@@>",
+	"mtu": "<@@>dvs01MTU</@@>"
+},
+{
+	"location": "<@@>datacenterName</@@>",
+	"name": "<@@>dvs02Name</@@>",
+	"NumUplinkPorts": "<@@>dvs02UplinkCount</@@>",
+	"mtu": "<@@>dvs02MTU</@@>"
+}
+]

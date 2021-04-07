@@ -1,0 +1,38 @@
+[
+{
+	"Server": "<@@>nestedIP01</@@>",
+	"credential": "@@esxiRoot"
+},
+{
+	"Server": "<@@>nestedIP02</@@>",
+	"credential": "@@esxiRoot"
+},
+{
+	"Server": "<@@>nestedIP03</@@>",
+	"credential": "@@esxiRoot"
+},
+{
+	"Server": "<@@>nestedIP04</@@>",
+	"credential": "@@esxiRoot"
+},
+{
+	"Server": "<@@>nestedIP05</@@>",
+	"credential": "@@esxiRoot"
+},
+{
+	"Server": "<@@>nestedIP06</@@>",
+	"credential": "@@esxiRoot"
+},
+{
+	"Server": "<@@>nestedIP07</@@>",
+	"credential": "@@esxiRoot"
+},
+{
+	"Server": "<@@>nestedIP08</@@>",
+	"credential": "@@esxiRoot"
+},
+{
+	"Server": "<@@>nestedIP09</@@>",
+	"credential": "@@esxiRoot"
+}
+]

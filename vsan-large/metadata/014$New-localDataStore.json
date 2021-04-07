@@ -1,0 +1,47 @@
+[
+{
+	"esxHost": "<@@>nestedIP01</@@>",
+	"targetLUN": "<@@>esxiScratchLUN</@@>",
+	"dataStoreName": "<@@>esxiScratchName</@@>"
+},
+{
+	"esxHost": "<@@>nestedIP02</@@>",
+	"targetLUN": "<@@>esxiScratchLUN</@@>",
+	"dataStoreName": "<@@>esxiScratchName</@@>"
+},
+{
+	"esxHost": "<@@>nestedIP03</@@>",
+	"targetLUN": "<@@>esxiScratchLUN</@@>",
+	"dataStoreName": "<@@>esxiScratchName</@@>"
+},
+{
+	"esxHost": "<@@>nestedIP04</@@>",
+	"targetLUN": "<@@>esxiScratchLUN</@@>",
+	"dataStoreName": "<@@>esxiScratchName</@@>"
+},
+{
+	"esxHost": "<@@>nestedIP05</@@>",
+	"targetLUN": "<@@>esxiScratchLUN</@@>",
+	"dataStoreName": "<@@>esxiScratchName</@@>"
+},
+{
+	"esxHost": "<@@>nestedIP06</@@>",
+	"targetLUN": "<@@>esxiScratchLUN</@@>",
+	"dataStoreName": "<@@>esxiScratchName</@@>"
+},
+{
+	"esxHost": "<@@>nestedIP07</@@>",
+	"targetLUN": "<@@>esxiScratchLUN</@@>",
+	"dataStoreName": "<@@>esxiScratchName</@@>"
+},
+{
+	"esxHost": "<@@>nestedIP08</@@>",
+	"targetLUN": "<@@>esxiScratchLUN</@@>",
+	"dataStoreName": "<@@>esxiScratchName</@@>"
+},
+{
+	"esxHost": "<@@>nestedIP09</@@>",
+	"targetLUN": "<@@>esxiScratchLUN</@@>",
+	"dataStoreName": "<@@>esxiScratchName</@@>"
+}
+]

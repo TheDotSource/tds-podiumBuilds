@@ -1,0 +1,10 @@
+[
+{
+	"cluster": "<@@>mgmtClusterName</@@>",
+	"perfServiceState": "enabled"
+},
+{
+	"cluster": "<@@>custClusterName</@@>",
+	"perfServiceState": "enabled"
+}
+]

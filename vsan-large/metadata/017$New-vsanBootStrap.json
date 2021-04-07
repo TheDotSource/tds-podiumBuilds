@@ -1,0 +1,7 @@
+[
+{
+	"esxHost": "<@@>nestedIP01</@@>",
+	"cacheDiskSize": "<@@>esxvSANCache01</@@>",
+	"capacityDiskSize": "<@@>esxvSANCapacity01</@@>"
+}
+]

@@ -1,0 +1,18 @@
+[
+{
+	"vdswitch": "<@@>dvs01Name</@@>",
+	"name": "<@@>pg01Name</@@>"
+},
+{
+	"vdswitch": "<@@>dvs01Name</@@>",
+	"name": "<@@>pg02Name</@@>"
+},
+{
+	"vdswitch": "<@@>dvs01Name</@@>",
+	"name": "<@@>pg03Name</@@>"
+},
+{
+	"vdswitch": "<@@>dvs02Name</@@>",
+	"name": "<@@>pg04Name</@@>"
+}
+]

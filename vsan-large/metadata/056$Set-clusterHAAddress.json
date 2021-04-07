@@ -1,0 +1,10 @@
+[
+{
+	"clusterName": "<@@>mgmtClusterName</@@>",
+	"haAddress": "<@@>winVMIP</@@>"
+},
+{
+	"clusterName": "<@@>custClusterName</@@>",
+	"haAddress": "<@@>winVMIP</@@>"
+}
+]
