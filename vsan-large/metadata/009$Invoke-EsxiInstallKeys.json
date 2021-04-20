@@ -2,46 +2,46 @@
 {
 	"vmName": "<@@>esxHostVMName01</@@>",
 	"credential": "@@esxiRoot",
-	"cpuWarning": "<@@>esxInstallCPUWarning</@@>"
+	"cpuWarning": <@@>esxInstallCPUWarning</@@>
 },
 {
 	"vmName": "<@@>esxHostVMName02</@@>",
 	"credential": "@@esxiRoot",
-	"cpuWarning": "<@@>esxInstallCPUWarning</@@>"
+	"cpuWarning": <@@>esxInstallCPUWarning</@@>
 },
 {
 	"vmName": "<@@>esxHostVMName03</@@>",
 	"credential": "@@esxiRoot",
-	"cpuWarning": "<@@>esxInstallCPUWarning</@@>"
+	"cpuWarning": <@@>esxInstallCPUWarning</@@>
 },
 {
 	"vmName": "<@@>esxHostVMName04</@@>",
 	"credential": "@@esxiRoot",
-	"cpuWarning": "<@@>esxInstallCPUWarning</@@>"
+	"cpuWarning": <@@>esxInstallCPUWarning</@@>
 },
 {
 	"vmName": "<@@>esxHostVMName05</@@>",
 	"credential": "@@esxiRoot",
-	"cpuWarning": "<@@>esxInstallCPUWarning</@@>"
+	"cpuWarning": <@@>esxInstallCPUWarning</@@>
 },
 {
 	"vmName": "<@@>esxHostVMName06</@@>",
 	"credential": "@@esxiRoot",
-	"cpuWarning": "<@@>esxInstallCPUWarning</@@>"
+	"cpuWarning": <@@>esxInstallCPUWarning</@@>
 },
 {
 	"vmName": "<@@>esxHostVMName07</@@>",
 	"credential": "@@esxiRoot",
-	"cpuWarning": "<@@>esxInstallCPUWarning</@@>"
+	"cpuWarning": <@@>esxInstallCPUWarning</@@>
 },
 {
 	"vmName": "<@@>esxHostVMName08</@@>",
 	"credential": "@@esxiRoot",
-	"cpuWarning": "<@@>esxInstallCPUWarning</@@>"
+	"cpuWarning": <@@>esxInstallCPUWarning</@@>
 },
 {
 	"vmName": "<@@>esxHostVMName09</@@>",
 	"credential": "@@esxiRoot",
-	"cpuWarning": "<@@>esxInstallCPUWarning</@@>"
+	"cpuWarning": <@@>esxInstallCPUWarning</@@>
 }
 ]
