@@ -11,7 +11,8 @@
 	"esxNestedNet01": "<@@>esxNestedNet01</@@>",
 	"esxNestedNet02": "<@@>esxNestedNet02</@@>",
 	"esxiIsoPath": "@@esxiIsoDsPath",
-	"reserveMem": <@@>nestedReserveMem</@@>
+	"reserveMem": <@@>nestedReserveMem</@@>,
+	"bootMode": "uefi"
 },
 {
 	"datastore": "<@@>physicalDatastore</@@>",
@@ -25,7 +26,8 @@
 	"esxNestedNet01": "<@@>esxNestedNet01</@@>",
 	"esxNestedNet02": "<@@>esxNestedNet02</@@>",
 	"esxiIsoPath": "@@esxiIsoDsPath",
-	"reserveMem": <@@>nestedReserveMem</@@>
+	"reserveMem": <@@>nestedReserveMem</@@>,
+	"bootMode": "uefi"
 },
 {
 	"datastore": "<@@>physicalDatastore</@@>",
@@ -39,7 +41,8 @@
 	"esxNestedNet01": "<@@>esxNestedNet01</@@>",
 	"esxNestedNet02": "<@@>esxNestedNet02</@@>",
 	"esxiIsoPath": "@@esxiIsoDsPath",
-	"reserveMem": <@@>nestedReserveMem</@@>
+	"reserveMem": <@@>nestedReserveMem</@@>,
+	"bootMode": "uefi"
 },
 {
 	"datastore": "<@@>physicalDatastore</@@>",
@@ -53,7 +56,8 @@
 	"esxNestedNet01": "<@@>esxNestedNet01</@@>",
 	"esxNestedNet02": "<@@>esxNestedNet02</@@>",
 	"esxiIsoPath": "@@esxiIsoDsPath",
-	"reserveMem": <@@>nestedReserveMem</@@>
+	"reserveMem": <@@>nestedReserveMem</@@>,
+	"bootMode": "uefi"
 },
 {
 	"datastore": "<@@>physicalDatastore</@@>",
@@ -67,7 +71,8 @@
 	"esxNestedNet01": "<@@>esxNestedNet01</@@>",
 	"esxNestedNet02": "<@@>esxNestedNet02</@@>",
 	"esxiIsoPath": "@@esxiIsoDsPath",
-	"reserveMem": <@@>nestedReserveMem</@@>
+	"reserveMem": <@@>nestedReserveMem</@@>,
+	"bootMode": "uefi"
 },{
 	"datastore": "<@@>physicalDatastore</@@>",
 	"vmName": "<@@>esxHostVMName06</@@>",
@@ -80,7 +85,8 @@
 	"esxNestedNet01": "<@@>esxNestedNet01</@@>",
 	"esxNestedNet02": "<@@>esxNestedNet02</@@>",
 	"esxiIsoPath": "@@esxiIsoDsPath",
-	"reserveMem": <@@>nestedReserveMem</@@>
+	"reserveMem": <@@>nestedReserveMem</@@>,
+	"bootMode": "uefi"
 },
 {
 	"datastore": "<@@>physicalDatastore</@@>",
@@ -94,7 +100,8 @@
 	"esxNestedNet01": "<@@>esxNestedNet01</@@>",
 	"esxNestedNet02": "<@@>esxNestedNet02</@@>",
 	"esxiIsoPath": "@@esxiIsoDsPath",
-	"reserveMem": <@@>nestedReserveMem</@@>
+	"reserveMem": <@@>nestedReserveMem</@@>,
+	"bootMode": "uefi"
 },
 {
 	"datastore": "<@@>physicalDatastore</@@>",
@@ -108,7 +115,8 @@
 	"esxNestedNet01": "<@@>esxNestedNet01</@@>",
 	"esxNestedNet02": "<@@>esxNestedNet02</@@>",
 	"esxiIsoPath": "@@esxiIsoDsPath",
-	"reserveMem": <@@>nestedReserveMem</@@>
+	"reserveMem": <@@>nestedReserveMem</@@>,
+	"bootMode": "uefi"
 },
 {
 	"datastore": "<@@>physicalDatastore</@@>",
@@ -122,6 +130,7 @@
 	"esxNestedNet01": "<@@>esxNestedNet01</@@>",
 	"esxNestedNet02": "<@@>esxNestedNet02</@@>",
 	"esxiIsoPath": "@@esxiIsoDsPath",
-	"reserveMem": <@@>nestedReserveMem</@@>
+	"reserveMem": <@@>nestedReserveMem</@@>,
+	"bootMode": "uefi"
 }
 ]
