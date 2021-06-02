@@ -1,6 +1,7 @@
 [
 {
 	"vcsa": "<@@>VCSASystemName</@@>",
-	"Credential": "@@vcsaSsoAdmin"
+	"Credential": "@@vcsaSsoAdmin",
+	"timeOut": "600"
 }
 ]
