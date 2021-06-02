@@ -1,0 +1,9 @@
+[
+{
+	"source": "<@@>scratchDirectory</@@>\windowsScratch",
+	"destinationIso": "<@@>scratchDirectory</@@>\windows.iso",
+	"bootFile": "<@@>scratchDirectory</@@>\windowsScratch\efi\microsoft\boot\efisys_noprompt.bin",
+	"title": "Windows",
+	"workflowAttrib": "windowsIso"
+}
+]

@@ -1,0 +1,7 @@
+[
+{
+	"mediaPath": "<@@>winIso</@@>",
+	"destination": "<@@>scratchDirectory</@@>\windowsScratch",
+	"force": true
+}
+]

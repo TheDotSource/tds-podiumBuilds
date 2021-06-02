@@ -1,0 +1,56 @@
+[
+{
+	"localFile": "@@esxIso01",
+	"datastore": "<@@>physicalDatastore</@@>",
+	"targetFolder": "ISOs",
+	"workflowAttrib": "esxiIsoDsPath01"
+},
+{
+	"localFile": "@@esxIso02",
+	"datastore": "<@@>physicalDatastore</@@>",
+	"targetFolder": "ISOs",
+	"workflowAttrib": "esxiIsoDsPath02"
+},
+{
+	"localFile": "@@esxIso03",
+	"datastore": "<@@>physicalDatastore</@@>",
+	"targetFolder": "ISOs",
+	"workflowAttrib": "esxiIsoDsPath03"
+},
+{
+	"localFile": "@@esxIso04",
+	"datastore": "<@@>physicalDatastore</@@>",
+	"targetFolder": "ISOs",
+	"workflowAttrib": "esxiIsoDsPath04"
+},
+{
+	"localFile": "@@esxIso05",
+	"datastore": "<@@>physicalDatastore</@@>",
+	"targetFolder": "ISOs",
+	"workflowAttrib": "esxiIsoDsPath05"
+},
+{
+	"localFile": "@@esxIso06",
+	"datastore": "<@@>physicalDatastore</@@>",
+	"targetFolder": "ISOs",
+	"workflowAttrib": "esxiIsoDsPath06"
+},
+{
+	"localFile": "@@esxIso07",
+	"datastore": "<@@>physicalDatastore</@@>",
+	"targetFolder": "ISOs",
+	"workflowAttrib": "esxiIsoDsPath07"
+},
+{
+	"localFile": "@@esxIso08",
+	"datastore": "<@@>physicalDatastore</@@>",
+	"targetFolder": "ISOs",
+	"workflowAttrib": "esxiIsoDsPath08"
+},
+{
+	"localFile": "@@esxIso09",
+	"datastore": "<@@>physicalDatastore</@@>",
+	"targetFolder": "ISOs",
+	"workflowAttrib": "esxiIsoDsPath09"
+}
+]

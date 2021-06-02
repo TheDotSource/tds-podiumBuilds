@@ -10,7 +10,7 @@
 	"esxHD03": "<@@>esxvSANCapacity01</@@>",
 	"esxNestedNet01": "<@@>esxNestedNet01</@@>",
 	"esxNestedNet02": "<@@>esxNestedNet02</@@>",
-	"esxiIsoPath": "@@esxiIsoDsPath",
+	"esxiIsoPath": "@@esxiIsoDsPath01",
 	"reserveMem": <@@>nestedReserveMem</@@>,
 	"bootMode": "uefi"
 },
@@ -25,7 +25,7 @@
 	"esxHD03": "<@@>esxvSANCapacity01</@@>",
 	"esxNestedNet01": "<@@>esxNestedNet01</@@>",
 	"esxNestedNet02": "<@@>esxNestedNet02</@@>",
-	"esxiIsoPath": "@@esxiIsoDsPath",
+	"esxiIsoPath": "@@esxiIsoDsPath02",
 	"reserveMem": <@@>nestedReserveMem</@@>,
 	"bootMode": "uefi"
 },
@@ -40,7 +40,7 @@
 	"esxHD03": "<@@>esxvSANCapacity01</@@>",
 	"esxNestedNet01": "<@@>esxNestedNet01</@@>",
 	"esxNestedNet02": "<@@>esxNestedNet02</@@>",
-	"esxiIsoPath": "@@esxiIsoDsPath",
+	"esxiIsoPath": "@@esxiIsoDsPath03",
 	"reserveMem": <@@>nestedReserveMem</@@>,
 	"bootMode": "uefi"
 },
@@ -55,7 +55,7 @@
 	"esxHD03": "<@@>esxvSANCapacity01</@@>",
 	"esxNestedNet01": "<@@>esxNestedNet01</@@>",
 	"esxNestedNet02": "<@@>esxNestedNet02</@@>",
-	"esxiIsoPath": "@@esxiIsoDsPath",
+	"esxiIsoPath": "@@esxiIsoDsPath04",
 	"reserveMem": <@@>nestedReserveMem</@@>,
 	"bootMode": "uefi"
 },
@@ -70,7 +70,7 @@
 	"esxHD03": "<@@>esxvSANCapacity01</@@>",
 	"esxNestedNet01": "<@@>esxNestedNet01</@@>",
 	"esxNestedNet02": "<@@>esxNestedNet02</@@>",
-	"esxiIsoPath": "@@esxiIsoDsPath",
+	"esxiIsoPath": "@@esxiIsoDsPath05",
 	"reserveMem": <@@>nestedReserveMem</@@>,
 	"bootMode": "uefi"
 },{
@@ -84,7 +84,7 @@
 	"esxHD03": "<@@>esxvSANCapacity01</@@>",
 	"esxNestedNet01": "<@@>esxNestedNet01</@@>",
 	"esxNestedNet02": "<@@>esxNestedNet02</@@>",
-	"esxiIsoPath": "@@esxiIsoDsPath",
+	"esxiIsoPath": "@@esxiIsoDsPath06",
 	"reserveMem": <@@>nestedReserveMem</@@>,
 	"bootMode": "uefi"
 },
@@ -99,7 +99,7 @@
 	"esxHD03": "<@@>esxvSANCapacity01</@@>",
 	"esxNestedNet01": "<@@>esxNestedNet01</@@>",
 	"esxNestedNet02": "<@@>esxNestedNet02</@@>",
-	"esxiIsoPath": "@@esxiIsoDsPath",
+	"esxiIsoPath": "@@esxiIsoDsPath07",
 	"reserveMem": <@@>nestedReserveMem</@@>,
 	"bootMode": "uefi"
 },
@@ -114,7 +114,7 @@
 	"esxHD03": "<@@>esxvSANCapacity01</@@>",
 	"esxNestedNet01": "<@@>esxNestedNet01</@@>",
 	"esxNestedNet02": "<@@>esxNestedNet02</@@>",
-	"esxiIsoPath": "@@esxiIsoDsPath",
+	"esxiIsoPath": "@@esxiIsoDsPath08",
 	"reserveMem": <@@>nestedReserveMem</@@>,
 	"bootMode": "uefi"
 },
@@ -129,7 +129,7 @@
 	"esxHD03": "<@@>esxvSANCapacity01</@@>",
 	"esxNestedNet01": "<@@>esxNestedNet01</@@>",
 	"esxNestedNet02": "<@@>esxNestedNet02</@@>",
-	"esxiIsoPath": "@@esxiIsoDsPath",
+	"esxiIsoPath": "@@esxiIsoDsPath09",
 	"reserveMem": <@@>nestedReserveMem</@@>,
 	"bootMode": "uefi"
 }

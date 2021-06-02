@@ -1,5 +1,6 @@
 Key,Value,DataType,Description
 esxiIso,10,DML,DML index of ESXi ISO media.
+winIso,11,DML,DML index of Windows ISO media.
 custClusterName,PODCUST,String,Customer cluster name.
 custVsanDatastore,custVsan,String,Customer cluster vSAN datastore name.
 datacenterName,Lab,String,Lab environment datacenter name.
@@ -76,7 +77,6 @@ vcsaRoot,vcsaRoot.json,Credential,The Pod VCSA root credential.
 vcsaSsoAdmin,vcsaSsoAdmin.json,Credential,The Pod VCSA SSO credential.
 vSwitch,vSwitch0,String,Standard switch name.
 winAdmin,winAdmin.json,Credential,The Pod Windows and Active Directory administrator credential.
-winOVAIndex,1,DML,DML index for Windows OVA.
 winVMIP,,NETALLOCATION#pod-mgmt#NEWIP,Automatic IP assignment for Windows.
 winVMMaskLength,24,String,Net mask length for Windows VM.
 winVMName,poddc01,String,Windows VM name.
