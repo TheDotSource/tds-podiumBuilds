@@ -4,13 +4,15 @@
 	"location": "<@@>datacenterName</@@>",
 	"HAEnabled": false,
 	"DrsEnabled": false,
-	"vsanenabled": true
+	"vsanenabled": true,
+	"workflowAttrib": "clusterMgmt"
 },
 {
 	"Name": "<@@>custClusterName</@@>",
 	"location": "<@@>datacenterName</@@>",
 	"HAEnabled": false,
 	"DrsEnabled": false,
-	"vsanenabled": true
+	"vsanenabled": true,
+	"workflowAttrib": "clusterCust"
 }
 ]

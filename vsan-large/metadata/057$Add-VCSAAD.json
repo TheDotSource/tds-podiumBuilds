@@ -1,8 +1,0 @@
-[
-{
-	"vmname": "<@@>VCSAVMName</@@>",
-	"adFQDN": "<@@>domainFQDN</@@>",
-	"ADCredential": "@@winAdmin",
-	"VCSAOSCredential": "@@vcsaRoot"
-}
-]

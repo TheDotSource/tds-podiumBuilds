@@ -1,0 +1,22 @@
+[
+{
+	"Cluster": "<@@>mgmtClusterName</@@>",
+	"HAEnabled": false,
+	"Confirm": false
+},
+{
+	"Cluster": "<@@>custClusterName</@@>",
+	"HAEnabled": false,
+	"Confirm": false
+},
+{
+	"Cluster": "<@@>mgmtClusterName</@@>",
+	"HAEnabled": true,
+	"Confirm": false
+},
+{
+	"Cluster": "<@@>custClusterName</@@>",
+	"HAEnabled": true,
+	"Confirm": false
+}
+]

@@ -1,0 +1,47 @@
+[
+{
+	"vmHost": "@@esx01",
+	"ntpServers": "<@@>winVMIP</@@>",
+	"action": "Replace"
+},
+{
+	"vmHost": "@@esx02",
+	"ntpServers": "<@@>winVMIP</@@>",
+	"action": "Replace"
+},
+{
+	"vmHost": "@@esx03",
+	"ntpServers": "<@@>winVMIP</@@>",
+	"action": "Replace"
+},
+{
+	"vmHost": "@@esx04",
+	"ntpServers": "<@@>winVMIP</@@>",
+	"action": "Replace"
+},
+{
+	"vmHost": "@@esx05",
+	"ntpServers": "<@@>winVMIP</@@>",
+	"action": "Replace"
+},
+{
+	"vmHost": "@@esx06",
+	"ntpServers": "<@@>winVMIP</@@>",
+	"action": "Replace"
+},
+{
+	"vmHost": "@@esx07",
+	"ntpServers": "<@@>winVMIP</@@>",
+	"action": "Replace"
+},
+{
+	"vmHost": "@@esx08",
+	"ntpServers": "<@@>winVMIP</@@>",
+	"action": "Replace"
+},
+{
+	"vmHost": "@@esx09",
+	"ntpServers": "<@@>winVMIP</@@>",
+	"action": "Replace"
+}
+]

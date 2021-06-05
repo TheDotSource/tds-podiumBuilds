@@ -3,54 +3,63 @@
 	"Name": "<@@>nestedHostName01</@@>",
 	"location": "<@@>mgmtClusterName</@@>",
 	"Credential": "@@esxiRoot",
-	"Force": true
+	"Force": true,
+	"workflowAttrib": "esx01"
 },
 {
 	"Name": "<@@>nestedHostName02</@@>",
 	"location": "<@@>mgmtClusterName</@@>",
 	"Credential": "@@esxiRoot",
-	"Force": true
+	"Force": true,
+	"workflowAttrib": "esx02"
 },
 {
 	"Name": "<@@>nestedHostName03</@@>",
 	"location": "<@@>mgmtClusterName</@@>",
 	"Credential": "@@esxiRoot",
-	"Force": true
+	"Force": true,
+	"workflowAttrib": "esx03"
 },
 {
 	"Name": "<@@>nestedHostName04</@@>",
 	"location": "<@@>custClusterName</@@>",
 	"Credential": "@@esxiRoot",
-	"Force": true
+	"Force": true,
+	"workflowAttrib": "esx04"
 },
 {
 	"Name": "<@@>nestedHostName05</@@>",
 	"location": "<@@>custClusterName</@@>",
 	"Credential": "@@esxiRoot",
-	"Force": true
+	"Force": true,
+	"workflowAttrib": "esx05"
 },
 {
 	"Name": "<@@>nestedHostName06</@@>",
 	"location": "<@@>custClusterName</@@>",
 	"Credential": "@@esxiRoot",
-	"Force": true
+	"Force": true,
+	"workflowAttrib": "esx06"
 },
 {
 	"Name": "<@@>nestedHostName07</@@>",
 	"location": "<@@>custClusterName</@@>",
 	"Credential": "@@esxiRoot",
-	"Force": true
+	"Force": true,
+	"workflowAttrib": "esx07"
 },
 {
 	"Name": "<@@>nestedHostName08</@@>",
 	"location": "<@@>custClusterName</@@>",
 	"Credential": "@@esxiRoot",
-	"Force": true
+	"Force": true,
+	"workflowAttrib": "esx08"
 },
 {
 	"Name": "<@@>nestedHostName09</@@>",
 	"location": "<@@>custClusterName</@@>",
 	"Credential": "@@esxiRoot",
-	"Force": true
+	"Force": true,
+	"workflowAttrib": "esx09"
 }
 ]

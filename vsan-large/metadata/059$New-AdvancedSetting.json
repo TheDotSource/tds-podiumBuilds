@@ -1,0 +1,16 @@
+[
+{
+	"Entity": "@@clusterMgmt",
+	"Name": "das.isolationaddress0",
+	"Type": "ClusterHA",
+	"Value": "<@@>winVMIP</@@>",
+	"Confirm": false
+},
+{
+	"Entity": "@@clusterCust",
+	"Name": "das.isolationaddress0",
+	"Type": "ClusterHA",
+	"Value": "<@@>winVMIP</@@>",
+	"Confirm": false
+}
+]

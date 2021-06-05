@@ -1,47 +1,47 @@
 [
 {
 	"esxiHost": "<@@>nestedIP01</@@>",
-	"timeout": "480",
+	"timeout": "600",
 	"Credential": "@@esxiRoot"
 },
 {
 	"esxiHost": "<@@>nestedIP02</@@>",
-	"timeout": "480",
+	"timeout": "600",
 	"Credential": "@@esxiRoot"
 },
 {
 	"esxiHost": "<@@>nestedIP03</@@>",
-	"timeout": "480",
+	"timeout": "600",
 	"Credential": "@@esxiRoot"
 },
 {
 	"esxiHost": "<@@>nestedIP04</@@>",
-	"timeout": "480",
+	"timeout": "600",
 	"Credential": "@@esxiRoot"
 },
 {
 	"esxiHost": "<@@>nestedIP05</@@>",
-	"timeout": "480",
+	"timeout": "600",
 	"Credential": "@@esxiRoot"
 },
 {
 	"esxiHost": "<@@>nestedIP06</@@>",
-	"timeout": "480",
+	"timeout": "600",
 	"Credential": "@@esxiRoot"
 },
 {
 	"esxiHost": "<@@>nestedIP07</@@>",
-	"timeout": "480",
+	"timeout": "600",
 	"Credential": "@@esxiRoot"
 },
 {
 	"esxiHost": "<@@>nestedIP08</@@>",
-	"timeout": "480",
+	"timeout": "600",
 	"Credential": "@@esxiRoot"
 },
 {
 	"esxiHost": "<@@>nestedIP09</@@>",
-	"timeout": "480",
+	"timeout": "600",
 	"Credential": "@@esxiRoot"
 }
 ]
