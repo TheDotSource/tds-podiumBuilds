@@ -1,0 +1,7 @@
+[
+{
+	"clusterName": "<@@>mgmtClusterName</@@>",
+	"datastoreName": "<@@>mgmtVsanDatastore</@@>"
+
+}
+]

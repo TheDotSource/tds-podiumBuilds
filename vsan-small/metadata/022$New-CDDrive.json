@@ -1,0 +1,7 @@
+[
+{
+	"VM": "@@winVM",
+	"IsoPath": "@@winIsoDsPath",
+	"StartConnected": true
+}
+]

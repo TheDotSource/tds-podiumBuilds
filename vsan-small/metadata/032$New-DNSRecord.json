@@ -1,0 +1,34 @@
+[
+{
+	"hostName": "<@@>winVMIP</@@>",
+	"aRecord": "<@@>nestedHostName01</@@>",
+	"ip": "<@@>nestedIP01</@@>",
+	"dnsZone": "<@@>domainFQDN</@@>",
+	"Credential": "@@winAdmin"
+
+},
+{
+	"hostName": "<@@>winVMIP</@@>",
+	"aRecord": "<@@>nestedHostName02</@@>",
+	"ip": "<@@>nestedIP02</@@>",
+	"dnsZone": "<@@>domainFQDN</@@>",
+	"Credential": "@@winAdmin"
+
+},
+{
+	"hostName": "<@@>winVMIP</@@>",
+	"aRecord": "<@@>nestedHostName03</@@>",
+	"ip": "<@@>nestedIP03</@@>",
+	"dnsZone": "<@@>domainFQDN</@@>",
+	"Credential": "@@winAdmin"
+
+},
+{
+	"hostName": "<@@>winVMIP</@@>",
+	"aRecord": "<@@>VCSAVMName</@@>",
+	"ip": "<@@>VCSAMgmtIP</@@>",
+	"dnsZone": "<@@>domainFQDN</@@>",
+	"Credential": "@@winAdmin"
+
+}
+]

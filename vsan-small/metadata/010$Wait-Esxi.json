@@ -1,0 +1,17 @@
+[
+{
+	"esxiHost": "<@@>nestedIP01</@@>",
+	"timeout": "600",
+	"Credential": "@@esxiRoot"
+},
+{
+	"esxiHost": "<@@>nestedIP02</@@>",
+	"timeout": "600",
+	"Credential": "@@esxiRoot"
+},
+{
+	"esxiHost": "<@@>nestedIP03</@@>",
+	"timeout": "600",
+	"Credential": "@@esxiRoot"
+}
+]

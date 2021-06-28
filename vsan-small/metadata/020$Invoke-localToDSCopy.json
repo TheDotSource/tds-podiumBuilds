@@ -1,0 +1,8 @@
+[
+{
+	"localFile": "@@windowsIso",
+	"datastore": "<@@>tmpVsanDatastore</@@>",
+	"targetFolder": "ISOs",
+	"workflowAttrib": "winIsoDsPath"
+}
+]

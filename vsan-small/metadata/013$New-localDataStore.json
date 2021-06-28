@@ -1,0 +1,17 @@
+[
+{
+	"esxHost": "<@@>nestedIP01</@@>",
+	"targetLUN": "<@@>esxiScratchLUN</@@>",
+	"dataStoreName": "<@@>esxiScratchName</@@>"
+},
+{
+	"esxHost": "<@@>nestedIP02</@@>",
+	"targetLUN": "<@@>esxiScratchLUN</@@>",
+	"dataStoreName": "<@@>esxiScratchName</@@>"
+},
+{
+	"esxHost": "<@@>nestedIP03</@@>",
+	"targetLUN": "<@@>esxiScratchLUN</@@>",
+	"dataStoreName": "<@@>esxiScratchName</@@>"
+}
+]

@@ -1,0 +1,14 @@
+[
+{
+	"Server": "<@@>nestedIP01</@@>",
+	"credential": "@@esxiRoot"
+},
+{
+	"Server": "<@@>nestedIP02</@@>",
+	"credential": "@@esxiRoot"
+},
+{
+	"Server": "<@@>nestedIP03</@@>",
+	"credential": "@@esxiRoot"
+}
+]

@@ -1,0 +1,12 @@
+[
+{
+	"VMHost": "<@@>nestedIP01</@@>",
+	"name": "<@@>winVMName</@@>",
+	"dataStore": "<@@>tmpVsanDatastore</@@>",
+	"memoryGb": "2",
+	"numCpu": "2",
+	"DiskGb": "80",
+	"GuestId": "windows9Server64Guest",
+	"workflowAttrib": "winVM"
+}
+]

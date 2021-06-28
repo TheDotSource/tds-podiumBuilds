@@ -1,0 +1,10 @@
+[
+{
+	"Name": "<@@>mgmtClusterName</@@>",
+	"location": "<@@>datacenterName</@@>",
+	"HAEnabled": false,
+	"DrsEnabled": false,
+	"vsanenabled": true,
+	"workflowAttrib": "clusterMgmt"
+}
+]

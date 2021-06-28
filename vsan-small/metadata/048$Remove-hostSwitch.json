@@ -1,0 +1,14 @@
+[
+{
+	"vmHost": "<@@>nestedHostName01</@@>",
+	"vSwitch": "<@@>vSwitch</@@>"
+},
+{
+	"vmHost": "<@@>nestedHostName02</@@>",
+	"vSwitch": "<@@>vSwitch</@@>"
+},
+{
+	"vmHost": "<@@>nestedHostName03</@@>",
+	"vSwitch": "<@@>vSwitch</@@>"
+}
+]

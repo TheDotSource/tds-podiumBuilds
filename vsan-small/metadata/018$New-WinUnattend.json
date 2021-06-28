@@ -1,0 +1,12 @@
+[
+{
+	"targetFile": "<@@>scratchDirectory</@@>\windowsScratch\autoUnattend.xml",
+	"imageIndex": "1",
+	"ip": "<@@>winVMIP</@@>",
+	"maskLength": "<@@>winVMMaskLength</@@>",
+	"dns": "<@@>winVMIP</@@>",
+	"gateway": "<@@>net01GW</@@>",
+	"computerName": "<@@>winVMName</@@>",
+	"adminCredential": "@@winAdmin"
+}
+]

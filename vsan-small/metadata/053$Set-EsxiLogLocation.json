@@ -1,0 +1,14 @@
+[
+{
+	"vmHost": "<@@>nestedHostName01</@@>",
+	"datastoreWildcard": "scratch"
+},
+{
+	"vmHost": "<@@>nestedHostName02</@@>",
+	"datastoreWildcard": "scratch"
+},
+{
+	"vmHost": "<@@>nestedHostName03</@@>",
+	"datastoreWildcard": "scratch"
+}
+]

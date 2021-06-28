@@ -1,0 +1,47 @@
+[
+{
+	"datastore": "<@@>physicalDatastore</@@>",
+	"vmName": "<@@>esxHostVMName01</@@>",
+	"vmHost": "<@@>physicalHost</@@>",
+	"esxRam": "<@@>esxRAM</@@>",
+	"esxCores": "<@@>esxCores</@@>",
+	"esxHD01": "<@@>esxScratchHD</@@>",
+	"esxHD02": "<@@>esxvSANCache01</@@>",
+	"esxHD03": "<@@>esxvSANCapacity01</@@>",
+	"esxNestedNet01": "<@@>esxNestedNet01</@@>",
+	"esxNestedNet02": "<@@>esxNestedNet02</@@>",
+	"esxiIsoPath": "@@esxiIsoDsPath01",
+	"reserveMem": <@@>nestedReserveMem</@@>,
+	"bootMode": "uefi"
+},
+{
+	"datastore": "<@@>physicalDatastore</@@>",
+	"vmName": "<@@>esxHostVMName02</@@>",
+	"vmHost": "<@@>physicalHost</@@>",
+	"esxRam": "<@@>esxRAM</@@>",
+	"esxCores": "<@@>esxCores</@@>",
+	"esxHD01": "<@@>esxScratchHD</@@>",
+	"esxHD02": "<@@>esxvSANCache01</@@>",
+	"esxHD03": "<@@>esxvSANCapacity01</@@>",
+	"esxNestedNet01": "<@@>esxNestedNet01</@@>",
+	"esxNestedNet02": "<@@>esxNestedNet02</@@>",
+	"esxiIsoPath": "@@esxiIsoDsPath02",
+	"reserveMem": <@@>nestedReserveMem</@@>,
+	"bootMode": "uefi"
+},
+{
+	"datastore": "<@@>physicalDatastore</@@>",
+	"vmName": "<@@>esxHostVMName03</@@>",
+	"vmHost": "<@@>physicalHost</@@>",
+	"esxRam": "<@@>esxRAM</@@>",
+	"esxCores": "<@@>esxCores</@@>",
+	"esxHD01": "<@@>esxScratchHD</@@>",
+	"esxHD02": "<@@>esxvSANCache01</@@>",
+	"esxHD03": "<@@>esxvSANCapacity01</@@>",
+	"esxNestedNet01": "<@@>esxNestedNet01</@@>",
+	"esxNestedNet02": "<@@>esxNestedNet02</@@>",
+	"esxiIsoPath": "@@esxiIsoDsPath03",
+	"reserveMem": <@@>nestedReserveMem</@@>,
+	"bootMode": "uefi"
+}
+]

@@ -1,0 +1,38 @@
+[
+{
+	"mediaPath": "<@@>scratchDirectory</@@>\esxiScratch",
+	"outputPath": "<@@>scratchDirectory</@@>",
+	"rootCredential": "@@esxiRoot",
+	"ip": "<@@>nestedIP01</@@>",
+	"netmask": "<@@>net01Mask</@@>",
+	"gateway": "<@@>net01GW</@@>",
+	"nameserver": "<@@>winVMIP</@@>",
+	"hostname": "<@@>nestedHostName01</@@>",
+	"workflowAttrib": "esxIso01",
+	"resetVmk0": true
+},
+{
+	"mediaPath": "<@@>scratchDirectory</@@>\esxiScratch",
+	"outputPath": "<@@>scratchDirectory</@@>",
+	"rootCredential": "@@esxiRoot",
+	"ip": "<@@>nestedIP02</@@>",
+	"netmask": "<@@>net01Mask</@@>",
+	"gateway": "<@@>net01GW</@@>",
+	"nameserver": "<@@>winVMIP</@@>",
+	"hostname": "<@@>nestedHostName02</@@>",
+	"workflowAttrib": "esxIso02",
+	"resetVmk0": true
+},
+{
+	"mediaPath": "<@@>scratchDirectory</@@>\esxiScratch",
+	"outputPath": "<@@>scratchDirectory</@@>",
+	"rootCredential": "@@esxiRoot",
+	"ip": "<@@>nestedIP03</@@>",
+	"netmask": "<@@>net01Mask</@@>",
+	"gateway": "<@@>net01GW</@@>",
+	"nameserver": "<@@>winVMIP</@@>",
+	"hostname": "<@@>nestedHostName03</@@>",
+	"workflowAttrib": "esxIso03",
+	"resetVmk0": true
+}
+]

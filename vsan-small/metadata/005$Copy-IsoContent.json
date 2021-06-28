@@ -1,0 +1,7 @@
+[
+{
+	"mediaPath": "<@@>esxiIso</@@>",
+	"destination": "<@@>scratchDirectory</@@>\esxiScratch",
+	"force": true
+}
+]

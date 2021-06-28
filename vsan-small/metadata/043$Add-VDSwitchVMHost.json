@@ -1,0 +1,26 @@
+[
+{
+	"VMHost": "<@@>nestedHostName01</@@>",
+	"VDSwitch": "<@@>dvs01Name</@@>"
+},
+{
+	"VMHost": "<@@>nestedHostName02</@@>",
+	"VDSwitch": "<@@>dvs01Name</@@>"
+},
+{
+	"VMHost": "<@@>nestedHostName03</@@>",
+	"VDSwitch": "<@@>dvs01Name</@@>"
+},
+{
+	"VMHost": "<@@>nestedHostName01</@@>",
+	"VDSwitch": "<@@>dvs02Name</@@>"
+},
+{
+	"VMHost": "<@@>nestedHostName02</@@>",
+	"VDSwitch": "<@@>dvs02Name</@@>"
+},
+{
+	"VMHost": "<@@>nestedHostName03</@@>",
+	"VDSwitch": "<@@>dvs02Name</@@>"
+}
+]

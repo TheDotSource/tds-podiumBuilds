@@ -1,0 +1,23 @@
+[
+{
+	"Name": "<@@>nestedHostName01</@@>",
+	"location": "<@@>mgmtClusterName</@@>",
+	"Credential": "@@esxiRoot",
+	"Force": true,
+	"workflowAttrib": "esx01"
+},
+{
+	"Name": "<@@>nestedHostName02</@@>",
+	"location": "<@@>mgmtClusterName</@@>",
+	"Credential": "@@esxiRoot",
+	"Force": true,
+	"workflowAttrib": "esx02"
+},
+{
+	"Name": "<@@>nestedHostName03</@@>",
+	"location": "<@@>mgmtClusterName</@@>",
+	"Credential": "@@esxiRoot",
+	"Force": true,
+	"workflowAttrib": "esx03"
+}
+]

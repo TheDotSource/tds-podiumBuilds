@@ -1,0 +1,11 @@
+[
+{
+	"VM": "<@@>esxHostVMName01</@@>"
+},
+{
+	"VM": "<@@>esxHostVMName02</@@>"
+},
+{
+	"VM": "<@@>esxHostVMName03</@@>"
+}
+]
