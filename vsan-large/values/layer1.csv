@@ -12,5 +12,5 @@ esxHostVMName06,pod01esx06,String,VM name for nested host 06.
 esxHostVMName07,pod01esx07,String,VM name for nested host 07.
 esxHostVMName08,pod01esx08,String,VM name for nested host 08.
 esxHostVMName09,pod01esx09,String,VM name for nested host 09.
-esxNestedNet01,pg01pod01,String,Port group on physical host to attach nested ESXi network.
-esxNestedNet02,pg02pod01,String,Port group on physical host to attach nested ESXi network.
+esxNestedNet01,POD-PG01,String,Port group on physical host to attach nested ESXi network.
+esxNestedNet02,POD-PG02,String,Port group on physical host to attach nested ESXi network.

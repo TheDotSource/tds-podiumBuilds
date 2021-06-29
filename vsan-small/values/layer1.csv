@@ -6,5 +6,5 @@ layer1VCSA,layer1VCSA.json,Credential,The VCSA hosting the target physical ESXi 
 esxHostVMName01,pod01esx01,String,VM name for nested host 01.
 esxHostVMName02,pod01esx02,String,VM name for nested host 02.
 esxHostVMName03,pod01esx03,String,VM name for nested host 03.
-esxNestedNet01,pg01pod01,String,Port group on physical host to attach nested ESXi network.
-esxNestedNet02,pg02pod01,String,Port group on physical host to attach nested ESXi network.
+esxNestedNet01,POD-PG01,String,Port group on physical host to attach nested ESXi network.
+esxNestedNet02,POD-PG02,String,Port group on physical host to attach nested ESXi network.
