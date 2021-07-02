@@ -1,0 +1,7 @@
+[
+{
+	"NetworkId": "<@@>dnsReverseNetId</@@>/<@@>dnsReverseNetMaskLength</@@>",
+	"ReplicationScope": "Forest",
+	"CimSession": "@@cimSession"
+}
+]

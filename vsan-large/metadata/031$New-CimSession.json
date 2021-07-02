@@ -1,0 +1,7 @@
+[
+{
+	"ComputerName": "<@@>winVMIP</@@>",
+	"Credential": "@@winAdmin",
+	"workflowAttrib": "cimSession"
+}
+]

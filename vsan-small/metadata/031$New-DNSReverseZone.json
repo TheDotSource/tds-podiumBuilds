@@ -1,9 +1,0 @@
-[
-{
-	"hostName": "<@@>winVMIP</@@>",
-	"netID": "<@@>dnsReverseNetId</@@>",
-	"maskLength": "<@@>dnsReverseNetMaskLength</@@>",
-	"Credential": "@@winAdmin"
-
-}
-]
