@@ -1,62 +1,62 @@
 [
 {
-	"Name": "<@@>nestedHostName01</@@>",
+	"Name": "<@@>nestedHostName01</@@>.<@@>domainFQDN</@@>",
 	"location": "<@@>mgmtClusterName</@@>",
 	"Credential": "@@esxiRoot",
 	"Force": true,
 	"workflowAttrib": "esx01"
 },
 {
-	"Name": "<@@>nestedHostName02</@@>",
+	"Name": "<@@>nestedHostName02</@@>.<@@>domainFQDN</@@>",
 	"location": "<@@>mgmtClusterName</@@>",
 	"Credential": "@@esxiRoot",
 	"Force": true,
 	"workflowAttrib": "esx02"
 },
 {
-	"Name": "<@@>nestedHostName03</@@>",
+	"Name": "<@@>nestedHostName03</@@>.<@@>domainFQDN</@@>",
 	"location": "<@@>mgmtClusterName</@@>",
 	"Credential": "@@esxiRoot",
 	"Force": true,
 	"workflowAttrib": "esx03"
 },
 {
-	"Name": "<@@>nestedHostName04</@@>",
+	"Name": "<@@>nestedHostName04</@@>.<@@>domainFQDN</@@>",
 	"location": "<@@>custClusterName</@@>",
 	"Credential": "@@esxiRoot",
 	"Force": true,
 	"workflowAttrib": "esx04"
 },
 {
-	"Name": "<@@>nestedHostName05</@@>",
+	"Name": "<@@>nestedHostName05</@@>.<@@>domainFQDN</@@>",
 	"location": "<@@>custClusterName</@@>",
 	"Credential": "@@esxiRoot",
 	"Force": true,
 	"workflowAttrib": "esx05"
 },
 {
-	"Name": "<@@>nestedHostName06</@@>",
+	"Name": "<@@>nestedHostName06</@@>.<@@>domainFQDN</@@>",
 	"location": "<@@>custClusterName</@@>",
 	"Credential": "@@esxiRoot",
 	"Force": true,
 	"workflowAttrib": "esx06"
 },
 {
-	"Name": "<@@>nestedHostName07</@@>",
+	"Name": "<@@>nestedHostName07</@@>.<@@>domainFQDN</@@>",
 	"location": "<@@>custClusterName</@@>",
 	"Credential": "@@esxiRoot",
 	"Force": true,
 	"workflowAttrib": "esx07"
 },
 {
-	"Name": "<@@>nestedHostName08</@@>",
+	"Name": "<@@>nestedHostName08</@@>.<@@>domainFQDN</@@>",
 	"location": "<@@>custClusterName</@@>",
 	"Credential": "@@esxiRoot",
 	"Force": true,
 	"workflowAttrib": "esx08"
 },
 {
-	"Name": "<@@>nestedHostName09</@@>",
+	"Name": "<@@>nestedHostName09</@@>.<@@>domainFQDN</@@>",
 	"location": "<@@>custClusterName</@@>",
 	"Credential": "@@esxiRoot",
 	"Force": true,

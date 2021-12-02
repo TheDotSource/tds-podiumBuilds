@@ -1,0 +1,72 @@
+[
+{
+	"Name": "<@@>nestedHostName01</@@>",
+	"ZoneName": "<@@>domainFQDN</@@>",
+	"IPv4Address": "<@@>nestedIP01</@@>",
+	"CimSession": "@@cimSession",
+	"CreatePtr": true
+},
+{
+	"Name": "<@@>nestedHostName02</@@>",
+	"ZoneName": "<@@>domainFQDN</@@>",
+	"IPv4Address": "<@@>nestedIP02</@@>",
+	"CimSession": "@@cimSession",
+	"CreatePtr": true
+},
+{
+	"Name": "<@@>nestedHostName03</@@>",
+	"ZoneName": "<@@>domainFQDN</@@>",
+	"IPv4Address": "<@@>nestedIP03</@@>",
+	"CimSession": "@@cimSession",
+	"CreatePtr": true
+},
+{
+	"Name": "<@@>nestedHostName04</@@>",
+	"ZoneName": "<@@>domainFQDN</@@>",
+	"IPv4Address": "<@@>nestedIP04</@@>",
+	"CimSession": "@@cimSession",
+	"CreatePtr": true
+},
+{
+	"Name": "<@@>nestedHostName05</@@>",
+	"ZoneName": "<@@>domainFQDN</@@>",
+	"IPv4Address": "<@@>nestedIP05</@@>",
+	"CimSession": "@@cimSession",
+	"CreatePtr": true
+},
+{
+	"Name": "<@@>nestedHostName06</@@>",
+	"ZoneName": "<@@>domainFQDN</@@>",
+	"IPv4Address": "<@@>nestedIP06</@@>",
+	"CimSession": "@@cimSession",
+	"CreatePtr": true
+},
+{
+	"Name": "<@@>nestedHostName07</@@>",
+	"ZoneName": "<@@>domainFQDN</@@>",
+	"IPv4Address": "<@@>nestedIP07</@@>",
+	"CimSession": "@@cimSession",
+	"CreatePtr": true
+},
+{
+	"Name": "<@@>nestedHostName08</@@>",
+	"ZoneName": "<@@>domainFQDN</@@>",
+	"IPv4Address": "<@@>nestedIP08</@@>",
+	"CimSession": "@@cimSession",
+	"CreatePtr": true
+},
+{
+	"Name": "<@@>nestedHostName09</@@>",
+	"ZoneName": "<@@>domainFQDN</@@>",
+	"IPv4Address": "<@@>nestedIP09</@@>",
+	"CimSession": "@@cimSession",
+	"CreatePtr": true
+},
+{
+	"Name": "<@@>VCSAVMName</@@>",
+	"ZoneName": "<@@>domainFQDN</@@>",
+	"IPv4Address": "<@@>VCSAMgmtIP</@@>",
+	"CimSession": "@@cimSession",
+	"CreatePtr": true
+}
+]

@@ -1,0 +1,110 @@
+[
+{
+	"name": "vmnic0",
+	"vmHost": "@@esx01",
+	"physical": true,
+	"workflowAttrib": "esx01vmnic1"
+},
+{
+	"name": "vmnic0",
+	"vmHost": "@@esx02",
+	"physical": true,
+	"workflowAttrib": "esx02vmnic1"
+},
+{
+	"name": "vmnic0",
+	"vmHost": "@@esx03",
+	"physical": true,
+	"workflowAttrib": "esx03vmnic1"
+},
+{
+	"name": "vmnic0",
+	"vmHost": "@@esx04",
+	"physical": true,
+	"workflowAttrib": "esx04vmnic1"
+},
+{
+	"name": "vmnic0",
+	"vmHost": "@@esx05",
+	"physical": true,
+	"workflowAttrib": "esx05vmnic1"
+},
+{
+	"name": "vmnic0",
+	"vmHost": "@@esx06",
+	"physical": true,
+	"workflowAttrib": "esx06vmnic1"
+},
+{
+	"name": "vmnic0",
+	"vmHost": "@@esx07",
+	"physical": true,
+	"workflowAttrib": "esx07vmnic1"
+},
+{
+	"name": "vmnic0",
+	"vmHost": "@@esx08",
+	"physical": true,
+	"workflowAttrib": "esx08vmnic1"
+},
+{
+	"name": "vmnic0",
+	"vmHost": "@@esx09",
+	"physical": true,
+	"workflowAttrib": "esx09vmnic1"
+},
+{
+	"name": "vmnic2",
+	"vmHost": "@@esx01",
+	"physical": true,
+	"workflowAttrib": "esx01vmnic2"
+},
+{
+	"name": "vmnic2",
+	"vmHost": "@@esx02",
+	"physical": true,
+	"workflowAttrib": "esx02vmnic2"
+},
+{
+	"name": "vmnic2",
+	"vmHost": "@@esx03",
+	"physical": true,
+	"workflowAttrib": "esx03vmnic2"
+},
+{
+	"name": "vmnic2",
+	"vmHost": "@@esx04",
+	"physical": true,
+	"workflowAttrib": "esx04vmnic2"
+},
+{
+	"name": "vmnic2",
+	"vmHost": "@@esx05",
+	"physical": true,
+	"workflowAttrib": "esx05vmnic2"
+},
+{
+	"name": "vmnic2",
+	"vmHost": "@@esx06",
+	"physical": true,
+	"workflowAttrib": "esx06vmnic2"
+},
+{
+	"name": "vmnic2",
+	"vmHost": "@@esx07",
+	"physical": true,
+	"workflowAttrib": "esx07vmnic2"
+},
+{
+	"name": "vmnic2",
+	"vmHost": "@@esx08",
+	"physical": true,
+	"workflowAttrib": "esx08vmnic2"
+},
+{
+	"name": "vmnic2",
+	"vmHost": "@@esx09",
+	"physical": true,
+	"workflowAttrib": "esx09vmnic2"
+}
+]

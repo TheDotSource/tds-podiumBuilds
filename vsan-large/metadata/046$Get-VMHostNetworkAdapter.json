@@ -1,0 +1,47 @@
+[
+{
+	"name": "vmk0",
+	"vmHost": "@@esx01",
+	"workflowAttrib": "esx01vmk0"
+},
+{
+	"name": "vmk0",
+	"vmHost": "@@esx02",
+	"workflowAttrib": "esx02vmk0"
+},
+{
+	"name": "vmk0",
+	"vmHost": "@@esx03",
+	"workflowAttrib": "esx03vmk0"
+},
+{
+	"name": "vmk0",
+	"vmHost": "@@esx04",
+	"workflowAttrib": "esx04vmk0"
+},
+{
+	"name": "vmk0",
+	"vmHost": "@@esx05",
+	"workflowAttrib": "esx05vmk0"
+},
+{
+	"name": "vmk0",
+	"vmHost": "@@esx06",
+	"workflowAttrib": "esx06vmk0"
+},
+{
+	"name": "vmk0",
+	"vmHost": "@@esx07",
+	"workflowAttrib": "esx07vmk0"
+},
+{
+	"name": "vmk0",
+	"vmHost": "@@esx08",
+	"workflowAttrib": "esx08vmk0"
+},
+{
+	"name": "vmk0",
+	"vmHost": "@@esx09",
+	"workflowAttrib": "esx09vmk0"
+}
+]

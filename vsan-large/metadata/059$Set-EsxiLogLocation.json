@@ -1,0 +1,38 @@
+[
+{
+	"vmHost": "@@esx01",
+	"datastoreWildcard": "scratch"
+},
+{
+	"vmHost": "@@esx02",
+	"datastoreWildcard": "scratch"
+},
+{
+	"vmHost": "@@esx03",
+	"datastoreWildcard": "scratch"
+},
+{
+	"vmHost": "@@esx04",
+	"datastoreWildcard": "scratch"
+},
+{
+	"vmHost": "@@esx05",
+	"datastoreWildcard": "scratch"
+},
+{
+	"vmHost": "@@esx06",
+	"datastoreWildcard": "scratch"
+},
+{
+	"vmHost": "@@esx07",
+	"datastoreWildcard": "scratch"
+},
+{
+	"vmHost": "@@esx08",
+	"datastoreWildcard": "scratch"
+},
+{
+	"vmHost": "@@esx09",
+	"datastoreWildcard": "scratch"
+}
+]

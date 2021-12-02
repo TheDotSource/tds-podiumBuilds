@@ -1,0 +1,110 @@
+[
+{
+	"VMHostPhysicalNic": "@@esx01vmnic1",
+	"DistributedSwitch": "@@dvs01",
+	"VMHostVirtualNic": "@@esx01vmk0",
+	"VirtualNicPortgroup": "@@pg01",
+	"Confirm": false
+},
+{
+	"VMHostPhysicalNic": "@@esx02vmnic1",
+	"DistributedSwitch": "@@dvs01",
+	"VMHostVirtualNic": "@@esx02vmk0",
+	"VirtualNicPortgroup": "@@pg01",
+	"Confirm": false
+},
+{
+	"VMHostPhysicalNic": "@@esx03vmnic1",
+	"DistributedSwitch": "@@dvs01",
+	"VMHostVirtualNic": "@@esx03vmk0",
+	"VirtualNicPortgroup": "@@pg01",
+	"Confirm": false
+},
+{
+	"VMHostPhysicalNic": "@@esx04vmnic1",
+	"DistributedSwitch": "@@dvs01",
+	"VMHostVirtualNic": "@@esx04vmk0",
+	"VirtualNicPortgroup": "@@pg01",
+	"Confirm": false
+},
+{
+	"VMHostPhysicalNic": "@@esx05vmnic1",
+	"DistributedSwitch": "@@dvs01",
+	"VMHostVirtualNic": "@@esx05vmk0",
+	"VirtualNicPortgroup": "@@pg01",
+	"Confirm": false
+},
+{
+	"VMHostPhysicalNic": "@@esx06vmnic1",
+	"DistributedSwitch": "@@dvs01",
+	"VMHostVirtualNic": "@@esx06vmk0",
+	"VirtualNicPortgroup": "@@pg01",
+	"Confirm": false
+},
+{
+	"VMHostPhysicalNic": "@@esx07vmnic1",
+	"DistributedSwitch": "@@dvs01",
+	"VMHostVirtualNic": "@@esx07vmk0",
+	"VirtualNicPortgroup": "@@pg01",
+	"Confirm": false
+},
+{
+	"VMHostPhysicalNic": "@@esx08vmnic1",
+	"DistributedSwitch": "@@dvs01",
+	"VMHostVirtualNic": "@@esx08vmk0",
+	"VirtualNicPortgroup": "@@pg01",
+	"Confirm": false
+},
+{
+	"VMHostPhysicalNic": "@@esx09vmnic1",
+	"DistributedSwitch": "@@dvs01",
+	"VMHostVirtualNic": "@@esx09vmk0",
+	"VirtualNicPortgroup": "@@pg01",
+	"Confirm": false
+},
+{
+	"VMHostPhysicalNic": "@@esx01vmnic2",
+	"DistributedSwitch": "@@dvs02",
+	"Confirm": false
+},
+{
+	"VMHostPhysicalNic": "@@esx02vmnic2",
+	"DistributedSwitch": "@@dvs02",
+	"Confirm": false
+},
+{
+	"VMHostPhysicalNic": "@@esx03vmnic2",
+	"DistributedSwitch": "@@dvs02",
+	"Confirm": false
+},
+{
+	"VMHostPhysicalNic": "@@esx04vmnic2",
+	"DistributedSwitch": "@@dvs02",
+	"Confirm": false
+},
+{
+	"VMHostPhysicalNic": "@@esx05vmnic2",
+	"DistributedSwitch": "@@dvs02",
+	"Confirm": false
+},
+{
+	"VMHostPhysicalNic": "@@esx06vmnic2",
+	"DistributedSwitch": "@@dvs02",
+	"Confirm": false
+},
+{
+	"VMHostPhysicalNic": "@@esx07vmnic2",
+	"DistributedSwitch": "@@dvs02",
+	"Confirm": false
+},
+{
+	"VMHostPhysicalNic": "@@esx08vmnic2",
+	"DistributedSwitch": "@@dvs02",
+	"Confirm": false
+},
+{
+	"VMHostPhysicalNic": "@@esx09vmnic2",
+	"DistributedSwitch": "@@dvs02",
+	"Confirm": false
+}
+]

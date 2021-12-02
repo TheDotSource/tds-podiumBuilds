@@ -3,12 +3,14 @@
 	"location": "<@@>datacenterName</@@>",
 	"name": "<@@>dvs01Name</@@>",
 	"NumUplinkPorts": "<@@>dvs01UplinkCount</@@>",
-	"mtu": "<@@>dvs01MTU</@@>"
+	"mtu": "<@@>dvs01MTU</@@>",
+	"workflowAttrib": "dvs01"
 },
 {
 	"location": "<@@>datacenterName</@@>",
 	"name": "<@@>dvs02Name</@@>",
 	"NumUplinkPorts": "<@@>dvs02UplinkCount</@@>",
-	"mtu": "<@@>dvs02MTU</@@>"
+	"mtu": "<@@>dvs02MTU</@@>",
+	"workflowAttrib": "dvs02"
 }
 ]

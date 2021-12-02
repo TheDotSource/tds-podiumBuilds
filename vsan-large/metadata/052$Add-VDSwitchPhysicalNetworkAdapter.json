@@ -1,0 +1,92 @@
+[
+{
+	"VMHostPhysicalNic": "@@esx01vmnic1",
+	"DistributedSwitch": "@@dvs01",
+	"Confirm": false
+},
+{
+	"VMHostPhysicalNic": "@@esx02vmnic1",
+	"DistributedSwitch": "@@dvs01",
+	"Confirm": false
+},
+{
+	"VMHostPhysicalNic": "@@esx03vmnic1",
+	"DistributedSwitch": "@@dvs01",
+	"Confirm": false
+},
+{
+	"VMHostPhysicalNic": "@@esx04vmnic1",
+	"DistributedSwitch": "@@dvs01",
+	"Confirm": false
+},
+{
+	"VMHostPhysicalNic": "@@esx05vmnic1",
+	"DistributedSwitch": "@@dvs01",
+	"Confirm": false
+},
+{
+	"VMHostPhysicalNic": "@@esx06vmnic1",
+	"DistributedSwitch": "@@dvs01",
+	"Confirm": false
+},
+{
+	"VMHostPhysicalNic": "@@esx07vmnic1",
+	"DistributedSwitch": "@@dvs01",
+	"Confirm": false
+},
+{
+	"VMHostPhysicalNic": "@@esx08vmnic1",
+	"DistributedSwitch": "@@dvs01",
+	"Confirm": false
+},
+{
+	"VMHostPhysicalNic": "@@esx09vmnic1",
+	"DistributedSwitch": "@@dvs01",
+	"Confirm": false
+},
+{
+	"VMHostPhysicalNic": "@@esx01vmnic2",
+	"DistributedSwitch": "@@dvs02",
+	"Confirm": false
+},
+{
+	"VMHostPhysicalNic": "@@esx02vmnic2",
+	"DistributedSwitch": "@@dvs02",
+	"Confirm": false
+},
+{
+	"VMHostPhysicalNic": "@@esx03vmnic2",
+	"DistributedSwitch": "@@dvs02",
+	"Confirm": false
+},
+{
+	"VMHostPhysicalNic": "@@esx04vmnic2",
+	"DistributedSwitch": "@@dvs02",
+	"Confirm": false
+},
+{
+	"VMHostPhysicalNic": "@@esx05vmnic2",
+	"DistributedSwitch": "@@dvs02",
+	"Confirm": false
+},
+{
+	"VMHostPhysicalNic": "@@esx06vmnic2",
+	"DistributedSwitch": "@@dvs02",
+	"Confirm": false
+},
+{
+	"VMHostPhysicalNic": "@@esx07vmnic2",
+	"DistributedSwitch": "@@dvs02",
+	"Confirm": false
+},
+{
+	"VMHostPhysicalNic": "@@esx08vmnic2",
+	"DistributedSwitch": "@@dvs02",
+	"Confirm": false
+},
+{
+	"VMHostPhysicalNic": "@@esx09vmnic2",
+	"DistributedSwitch": "@@dvs02",
+	"Confirm": false
+}
+]

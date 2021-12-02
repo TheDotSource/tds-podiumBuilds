@@ -1,0 +1,26 @@
+[
+{
+	"vmHost": "@@esx02"
+},
+{
+	"vmHost": "@@esx03"
+},
+{
+	"vmHost": "@@esx04"
+},
+{
+	"vmHost": "@@esx05"
+},
+{
+	"vmHost": "@@esx06"
+},
+{
+	"vmHost": "@@esx07"
+},
+{
+	"vmHost": "@@esx08"
+},
+{
+	"vmHost": "@@esx09"
+}
+]

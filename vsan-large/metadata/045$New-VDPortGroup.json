@@ -1,0 +1,22 @@
+[
+{
+	"vdswitch": "<@@>dvs01Name</@@>",
+	"name": "<@@>pg01Name</@@>",
+	"workflowAttrib": "pg01"
+},
+{
+	"vdswitch": "<@@>dvs01Name</@@>",
+	"name": "<@@>pg02Name</@@>",
+	"workflowAttrib": "pg02"
+},
+{
+	"vdswitch": "<@@>dvs01Name</@@>",
+	"name": "<@@>pg03Name</@@>",
+	"workflowAttrib": "pg03"
+},
+{
+	"vdswitch": "<@@>dvs02Name</@@>",
+	"name": "<@@>pg04Name</@@>",
+	"workflowAttrib": "pg04"
+}
+]

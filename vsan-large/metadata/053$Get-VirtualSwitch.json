@@ -1,0 +1,47 @@
+[
+{
+	"vmHost": "@@esx01",
+	"Name": "<@@>vSwitch</@@>",
+	"workflowAttrib": "hostvs01"
+},
+{
+	"vmHost": "@@esx02",
+	"Name": "<@@>vSwitch</@@>",
+	"workflowAttrib": "hostvs02"
+},
+{
+	"vmHost": "@@esx03",
+	"Name": "<@@>vSwitch</@@>",
+	"workflowAttrib": "hostvs03"
+},
+{
+	"vmHost": "@@esx04",
+	"Name": "<@@>vSwitch</@@>",
+	"workflowAttrib": "hostvs04"
+},
+{
+	"vmHost": "@@esx05",
+	"Name": "<@@>vSwitch</@@>",
+	"workflowAttrib": "hostvs05"
+},
+{
+	"vmHost": "@@esx06",
+	"Name": "<@@>vSwitch</@@>",
+	"workflowAttrib": "hostvs06"
+},
+{
+	"vmHost": "@@esx07",
+	"Name": "<@@>vSwitch</@@>",
+	"workflowAttrib": "hostvs07"
+},
+{
+	"vmHost": "@@esx08",
+	"Name": "<@@>vSwitch</@@>",
+	"workflowAttrib": "hostvs08"
+},
+{
+	"vmHost": "@@esx09",
+	"Name": "<@@>vSwitch</@@>",
+	"workflowAttrib": "hostvs09"
+}
+]

@@ -40,15 +40,15 @@ hostVsanVMKMask,,NETALLOCATION#pod-vsan#NETMASK,Automatic net mask assignment fo
 localAdapter,Private,String,Name of private network adapter on local jump box.
 mgmtClusterName,PODMGMT,String,Management cluster name.
 mgmtVsanDatastore,mgmtVsan,String,Management cluster vSAN datastore name.
-nestedHostName01,podesx01.pod.local,String,Hostname for nested host 01.
-nestedHostName02,podesx02.pod.local,String,Hostname for nested host 02.
-nestedHostName03,podesx03.pod.local,String,Hostname for nested host 03.
-nestedHostName04,podesx04.pod.local,String,Hostname for nested host 04.
-nestedHostName05,podesx05.pod.local,String,Hostname for nested host 05.
-nestedHostName06,podesx06.pod.local,String,Hostname for nested host 06.
-nestedHostName07,podesx07.pod.local,String,Hostname for nested host 07.
-nestedHostName08,podesx08.pod.local,String,Hostname for nested host 08.
-nestedHostName09,podesx09.pod.local,String,Hostname for nested host 09.
+nestedHostName01,podesx01,String,Hostname for nested host 01.
+nestedHostName02,podesx02,String,Hostname for nested host 02.
+nestedHostName03,podesx03,String,Hostname for nested host 03.
+nestedHostName04,podesx04,String,Hostname for nested host 04.
+nestedHostName05,podesx05,String,Hostname for nested host 05.
+nestedHostName06,podesx06,String,Hostname for nested host 06.
+nestedHostName07,podesx07,String,Hostname for nested host 07.
+nestedHostName08,podesx08,String,Hostname for nested host 08.
+nestedHostName09,podesx09,String,Hostname for nested host 09.
 nestedIP01,,NETALLOCATION#pod-mgmt#NEWIP,Automatic IP assignment for nested host 01.
 nestedIP02,,NETALLOCATION#pod-mgmt#NEWIP,Automatic IP assignment for nested host 02.
 nestedIP03,,NETALLOCATION#pod-mgmt#NEWIP,Automatic IP assignment for nested host 03.

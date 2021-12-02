@@ -7,7 +7,7 @@
 	"netmask": "<@@>net01Mask</@@>",
 	"gateway": "<@@>net01GW</@@>",
 	"nameserver": "<@@>winVMIP</@@>",
-	"hostname": "<@@>nestedHostName01</@@>",
+	"hostname": "<@@>nestedHostName01</@@>.<@@>domainFQDN</@@>",
 	"workflowAttrib": "esxIso01",
 	"resetVmk0": true
 },
@@ -19,7 +19,7 @@
 	"netmask": "<@@>net01Mask</@@>",
 	"gateway": "<@@>net01GW</@@>",
 	"nameserver": "<@@>winVMIP</@@>",
-	"hostname": "<@@>nestedHostName02</@@>",
+	"hostname": "<@@>nestedHostName02</@@>.<@@>domainFQDN</@@>",
 	"workflowAttrib": "esxIso02",
 	"resetVmk0": true
 },
@@ -31,7 +31,7 @@
 	"netmask": "<@@>net01Mask</@@>",
 	"gateway": "<@@>net01GW</@@>",
 	"nameserver": "<@@>winVMIP</@@>",
-	"hostname": "<@@>nestedHostName03</@@>",
+	"hostname": "<@@>nestedHostName03</@@>.<@@>domainFQDN</@@>",
 	"workflowAttrib": "esxIso03",
 	"resetVmk0": true
 },
@@ -43,7 +43,7 @@
 	"netmask": "<@@>net01Mask</@@>",
 	"gateway": "<@@>net01GW</@@>",
 	"nameserver": "<@@>winVMIP</@@>",
-	"hostname": "<@@>nestedHostName04</@@>",
+	"hostname": "<@@>nestedHostName04</@@>.<@@>domainFQDN</@@>",
 	"workflowAttrib": "esxIso04",
 	"resetVmk0": true
 },
@@ -55,7 +55,7 @@
 	"netmask": "<@@>net01Mask</@@>",
 	"gateway": "<@@>net01GW</@@>",
 	"nameserver": "<@@>winVMIP</@@>",
-	"hostname": "<@@>nestedHostName05</@@>",
+	"hostname": "<@@>nestedHostName05</@@>.<@@>domainFQDN</@@>",
 	"workflowAttrib": "esxIso05",
 	"resetVmk0": true
 },
@@ -67,7 +67,7 @@
 	"netmask": "<@@>net01Mask</@@>",
 	"gateway": "<@@>net01GW</@@>",
 	"nameserver": "<@@>winVMIP</@@>",
-	"hostname": "<@@>nestedHostName06</@@>",
+	"hostname": "<@@>nestedHostName06</@@>.<@@>domainFQDN</@@>",
 	"workflowAttrib": "esxIso06",
 	"resetVmk0": true
 },
@@ -79,7 +79,7 @@
 	"netmask": "<@@>net01Mask</@@>",
 	"gateway": "<@@>net01GW</@@>",
 	"nameserver": "<@@>winVMIP</@@>",
-	"hostname": "<@@>nestedHostName07</@@>",
+	"hostname": "<@@>nestedHostName07</@@>.<@@>domainFQDN</@@>",
 	"workflowAttrib": "esxIso07",
 	"resetVmk0": true
 },
@@ -91,7 +91,7 @@
 	"netmask": "<@@>net01Mask</@@>",
 	"gateway": "<@@>net01GW</@@>",
 	"nameserver": "<@@>winVMIP</@@>",
-	"hostname": "<@@>nestedHostName08</@@>",
+	"hostname": "<@@>nestedHostName08</@@>.<@@>domainFQDN</@@>",
 	"workflowAttrib": "esxIso08",
 	"resetVmk0": true
 },
@@ -103,7 +103,7 @@
 	"netmask": "<@@>net01Mask</@@>",
 	"gateway": "<@@>net01GW</@@>",
 	"nameserver": "<@@>winVMIP</@@>",
-	"hostname": "<@@>nestedHostName09</@@>",
+	"hostname": "<@@>nestedHostName09</@@>.<@@>domainFQDN</@@>",
 	"workflowAttrib": "esxIso09",
 	"resetVmk0": true
 },

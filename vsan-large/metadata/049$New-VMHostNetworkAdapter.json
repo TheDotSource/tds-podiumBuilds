@@ -1,6 +1,6 @@
 [
 {
-	"vmhost": "<@@>nestedHostName01</@@>",
+	"vmhost": "@@esx01",
 	"virtualswitch": "<@@>dvs02Name</@@>",
 	"portGroup": "<@@>pg04Name</@@>",
 	"ip": "<@@>host01VsanVMKIP</@@>",
@@ -11,7 +11,7 @@
 
 },
 {
-	"vmhost": "<@@>nestedHostName02</@@>",
+	"vmhost": "@@esx02",
 	"virtualswitch": "<@@>dvs02Name</@@>",
 	"portGroup": "<@@>pg04Name</@@>",
 	"ip": "<@@>host02VsanVMKIP</@@>",
@@ -21,7 +21,7 @@
 	"VMotionEnabled": false
 },
 {
-	"vmhost": "<@@>nestedHostName03</@@>",
+	"vmhost": "@@esx03",
 	"virtualswitch": "<@@>dvs02Name</@@>",
 	"portGroup": "<@@>pg04Name</@@>",
 	"ip": "<@@>host03VsanVMKIP</@@>",
@@ -31,7 +31,7 @@
 	"VMotionEnabled": false
 },
 {
-	"vmhost": "<@@>nestedHostName04</@@>",
+	"vmhost": "@@esx04",
 	"virtualswitch": "<@@>dvs02Name</@@>",
 	"portGroup": "<@@>pg04Name</@@>",
 	"ip": "<@@>host04VsanVMKIP</@@>",
@@ -41,7 +41,7 @@
 	"VMotionEnabled": false
 },
 {
-	"vmhost": "<@@>nestedHostName05</@@>",
+	"vmhost": "@@esx05",
 	"virtualswitch": "<@@>dvs02Name</@@>",
 	"portGroup": "<@@>pg04Name</@@>",
 	"ip": "<@@>host05VsanVMKIP</@@>",
@@ -51,7 +51,7 @@
 	"VMotionEnabled": false
 },
 {
-	"vmhost": "<@@>nestedHostName06</@@>",
+	"vmhost": "@@esx06",
 	"virtualswitch": "<@@>dvs02Name</@@>",
 	"portGroup": "<@@>pg04Name</@@>",
 	"ip": "<@@>host06VsanVMKIP</@@>",
@@ -61,7 +61,7 @@
 	"VMotionEnabled": false
 },
 {
-	"vmhost": "<@@>nestedHostName07</@@>",
+	"vmhost": "@@esx07",
 	"virtualswitch": "<@@>dvs02Name</@@>",
 	"portGroup": "<@@>pg04Name</@@>",
 	"ip": "<@@>host07VsanVMKIP</@@>",
@@ -71,7 +71,7 @@
 	"VMotionEnabled": false
 },
 {
-	"vmhost": "<@@>nestedHostName08</@@>",
+	"vmhost": "@@esx08",
 	"virtualswitch": "<@@>dvs02Name</@@>",
 	"portGroup": "<@@>pg04Name</@@>",
 	"ip": "<@@>host08VsanVMKIP</@@>",
@@ -81,7 +81,7 @@
 	"VMotionEnabled": false
 },
 {
-	"vmhost": "<@@>nestedHostName09</@@>",
+	"vmhost": "@@esx09",
 	"virtualswitch": "<@@>dvs02Name</@@>",
 	"portGroup": "<@@>pg04Name</@@>",
 	"ip": "<@@>host09VsanVMKIP</@@>",
@@ -91,7 +91,7 @@
 	"VMotionEnabled": false
 },
 {
-	"vmhost": "<@@>nestedHostName01</@@>",
+	"vmhost": "@@esx01",
 	"virtualswitch": "<@@>dvs01Name</@@>",
 	"portGroup": "<@@>pg03Name</@@>",
 	"ip": "<@@>host01VmotVMKIP</@@>",
@@ -101,7 +101,7 @@
 	"VMotionEnabled": true
 },
 {
-	"vmhost": "<@@>nestedHostName02</@@>",
+	"vmhost": "@@esx02",
 	"virtualswitch": "<@@>dvs01Name</@@>",
 	"portGroup": "<@@>pg03Name</@@>",
 	"ip": "<@@>host02VmotVMKIP</@@>",
@@ -111,7 +111,7 @@
 	"VMotionEnabled": true
 },
 {
-	"vmhost": "<@@>nestedHostName03</@@>",
+	"vmhost": "@@esx03",
 	"virtualswitch": "<@@>dvs01Name</@@>",
 	"portGroup": "<@@>pg03Name</@@>",
 	"ip": "<@@>host03VmotVMKIP</@@>",
@@ -121,7 +121,7 @@
 	"VMotionEnabled": true
 },
 {
-	"vmhost": "<@@>nestedHostName04</@@>",
+	"vmhost": "@@esx04",
 	"virtualswitch": "<@@>dvs01Name</@@>",
 	"portGroup": "<@@>pg03Name</@@>",
 	"ip": "<@@>host04VmotVMKIP</@@>",
@@ -131,7 +131,7 @@
 	"VMotionEnabled": true
 },
 {
-	"vmhost": "<@@>nestedHostName05</@@>",
+	"vmhost": "@@esx05",
 	"virtualswitch": "<@@>dvs01Name</@@>",
 	"portGroup": "<@@>pg03Name</@@>",
 	"ip": "<@@>host05VmotVMKIP</@@>",
@@ -141,7 +141,7 @@
 	"VMotionEnabled": true
 },
 {
-	"vmhost": "<@@>nestedHostName06</@@>",
+	"vmhost": "@@esx06",
 	"virtualswitch": "<@@>dvs01Name</@@>",
 	"portGroup": "<@@>pg03Name</@@>",
 	"ip": "<@@>host06VmotVMKIP</@@>",
@@ -151,7 +151,7 @@
 	"VMotionEnabled": true
 },
 {
-	"vmhost": "<@@>nestedHostName07</@@>",
+	"vmhost": "@@esx07",
 	"virtualswitch": "<@@>dvs01Name</@@>",
 	"portGroup": "<@@>pg03Name</@@>",
 	"ip": "<@@>host07VmotVMKIP</@@>",
@@ -161,7 +161,7 @@
 	"VMotionEnabled": true
 },
 {
-	"vmhost": "<@@>nestedHostName08</@@>",
+	"vmhost": "@@esx08",
 	"virtualswitch": "<@@>dvs01Name</@@>",
 	"portGroup": "<@@>pg03Name</@@>",
 	"ip": "<@@>host08VmotVMKIP</@@>",
@@ -171,7 +171,7 @@
 	"VMotionEnabled": true
 },
 {
-	"vmhost": "<@@>nestedHostName09</@@>",
+	"vmhost": "@@esx09",
 	"virtualswitch": "<@@>dvs01Name</@@>",
 	"portGroup": "<@@>pg03Name</@@>",
 	"ip": "<@@>host09VmotVMKIP</@@>",

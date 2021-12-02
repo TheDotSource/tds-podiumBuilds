@@ -1,0 +1,74 @@
+[
+{
+	"VMHost": "@@esx01",
+	"VDSwitch": "<@@>dvs01Name</@@>"
+},
+{
+	"VMHost": "@@esx02",
+	"VDSwitch": "<@@>dvs01Name</@@>"
+},
+{
+	"VMHost": "@@esx03",
+	"VDSwitch": "<@@>dvs01Name</@@>"
+},
+{
+	"VMHost": "@@esx04",
+	"VDSwitch": "<@@>dvs01Name</@@>"
+},
+{
+	"VMHost": "@@esx05",
+	"VDSwitch": "<@@>dvs01Name</@@>"
+},
+{
+	"VMHost": "@@esx06",
+	"VDSwitch": "<@@>dvs01Name</@@>"
+},
+{
+	"VMHost": "@@esx07",
+	"VDSwitch": "<@@>dvs01Name</@@>"
+},
+{
+	"VMHost": "@@esx08",
+	"VDSwitch": "<@@>dvs01Name</@@>"
+},
+{
+	"VMHost": "@@esx09",
+	"VDSwitch": "<@@>dvs01Name</@@>"
+},
+{
+	"VMHost": "@@esx01",
+	"VDSwitch": "<@@>dvs02Name</@@>"
+},
+{
+	"VMHost": "@@esx02",
+	"VDSwitch": "<@@>dvs02Name</@@>"
+},
+{
+	"VMHost": "@@esx03",
+	"VDSwitch": "<@@>dvs02Name</@@>"
+},
+{
+	"VMHost": "@@esx04",
+	"VDSwitch": "<@@>dvs02Name</@@>"
+},
+{
+	"VMHost": "@@esx05",
+	"VDSwitch": "<@@>dvs02Name</@@>"
+},
+{
+	"VMHost": "@@esx06",
+	"VDSwitch": "<@@>dvs02Name</@@>"
+},
+{
+	"VMHost": "@@esx07",
+	"VDSwitch": "<@@>dvs02Name</@@>"
+},
+{
+	"VMHost": "@@esx08",
+	"VDSwitch": "<@@>dvs02Name</@@>"
+},
+{
+	"VMHost": "@@esx09",
+	"VDSwitch": "<@@>dvs02Name</@@>"
+}
+]

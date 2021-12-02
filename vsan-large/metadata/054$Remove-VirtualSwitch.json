@@ -1,0 +1,38 @@
+[
+{
+	"virtualSwitch": "@@hostvs01",
+	"Confirm": false
+},
+{
+	"virtualSwitch": "@@hostvs02",
+	"Confirm": false
+},
+{
+	"virtualSwitch": "@@hostvs03",
+	"Confirm": false
+},
+{
+	"virtualSwitch": "@@hostvs04",
+	"Confirm": false
+},
+{
+	"virtualSwitch": "@@hostvs05",
+	"Confirm": false
+},
+{
+	"virtualSwitch": "@@hostvs06",
+	"Confirm": false
+},
+{
+	"virtualSwitch": "@@hostvs07",
+	"Confirm": false
+},
+{
+	"virtualSwitch": "@@hostvs08",
+	"Confirm": false
+},
+{
+	"virtualSwitch": "@@hostvs09",
+	"Confirm": false
+}
+]

@@ -1,0 +1,38 @@
+[
+{
+	"vmHost": "@@esx01",
+	"wildcard": "scratch"
+},
+{
+	"vmHost": "@@esx02",
+	"wildcard": "scratch"
+},
+{
+	"vmHost": "@@esx03",
+	"wildcard": "scratch"
+},
+{
+	"vmHost": "@@esx04",
+	"wildcard": "scratch"
+},
+{
+	"vmHost": "@@esx05",
+	"wildcard": "scratch"
+},
+{
+	"vmHost": "@@esx06",
+	"wildcard": "scratch"
+},
+{
+	"vmHost": "@@esx07",
+	"wildcard": "scratch"
+},
+{
+	"vmHost": "@@esx08",
+	"wildcard": "scratch"
+},
+{
+	"vmHost": "@@esx09",
+	"wildcard": "scratch"
+}
+]
