@@ -15,6 +15,7 @@
 		"ssoDomain": "<@@>VCSASSODomain</@@>",
 		"vmName": "<@@>VCSAVMName</@@>",
 		"logDir": "<@@>logDirectory</@@>",
-		"esxiCredential": "@@esxiRoot"
+		"esxiCredential": "@@esxiRoot",
+		"force": true
 	}
 ]
