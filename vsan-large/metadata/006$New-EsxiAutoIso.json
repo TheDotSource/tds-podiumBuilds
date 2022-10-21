@@ -8,6 +8,7 @@
 	"gateway": "<@@>net01GW</@@>",
 	"nameserver": "<@@>winVMIP</@@>",
 	"hostname": "<@@>nestedHostName01</@@>.<@@>domainFQDN</@@>",
+	"allowLegacyCPU": true,
 	"workflowAttrib": "esxIso01",
 	"resetVmk0": true
 },
@@ -20,6 +21,7 @@
 	"gateway": "<@@>net01GW</@@>",
 	"nameserver": "<@@>winVMIP</@@>",
 	"hostname": "<@@>nestedHostName02</@@>.<@@>domainFQDN</@@>",
+	"allowLegacyCPU": true,
 	"workflowAttrib": "esxIso02",
 	"resetVmk0": true
 },
@@ -32,6 +34,7 @@
 	"gateway": "<@@>net01GW</@@>",
 	"nameserver": "<@@>winVMIP</@@>",
 	"hostname": "<@@>nestedHostName03</@@>.<@@>domainFQDN</@@>",
+	"allowLegacyCPU": true,
 	"workflowAttrib": "esxIso03",
 	"resetVmk0": true
 },
@@ -44,6 +47,7 @@
 	"gateway": "<@@>net01GW</@@>",
 	"nameserver": "<@@>winVMIP</@@>",
 	"hostname": "<@@>nestedHostName04</@@>.<@@>domainFQDN</@@>",
+	"allowLegacyCPU": true,
 	"workflowAttrib": "esxIso04",
 	"resetVmk0": true
 },
@@ -56,6 +60,7 @@
 	"gateway": "<@@>net01GW</@@>",
 	"nameserver": "<@@>winVMIP</@@>",
 	"hostname": "<@@>nestedHostName05</@@>.<@@>domainFQDN</@@>",
+	"allowLegacyCPU": true,
 	"workflowAttrib": "esxIso05",
 	"resetVmk0": true
 },
@@ -68,6 +73,7 @@
 	"gateway": "<@@>net01GW</@@>",
 	"nameserver": "<@@>winVMIP</@@>",
 	"hostname": "<@@>nestedHostName06</@@>.<@@>domainFQDN</@@>",
+	"allowLegacyCPU": true,
 	"workflowAttrib": "esxIso06",
 	"resetVmk0": true
 },
@@ -80,6 +86,7 @@
 	"gateway": "<@@>net01GW</@@>",
 	"nameserver": "<@@>winVMIP</@@>",
 	"hostname": "<@@>nestedHostName07</@@>.<@@>domainFQDN</@@>",
+	"allowLegacyCPU": true,
 	"workflowAttrib": "esxIso07",
 	"resetVmk0": true
 },
@@ -92,6 +99,7 @@
 	"gateway": "<@@>net01GW</@@>",
 	"nameserver": "<@@>winVMIP</@@>",
 	"hostname": "<@@>nestedHostName08</@@>.<@@>domainFQDN</@@>",
+	"allowLegacyCPU": true,
 	"workflowAttrib": "esxIso08",
 	"resetVmk0": true
 },
@@ -104,6 +112,7 @@
 	"gateway": "<@@>net01GW</@@>",
 	"nameserver": "<@@>winVMIP</@@>",
 	"hostname": "<@@>nestedHostName09</@@>.<@@>domainFQDN</@@>",
+	"allowLegacyCPU": true,
 	"workflowAttrib": "esxIso09",
 	"resetVmk0": true
 },

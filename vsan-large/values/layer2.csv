@@ -3,4 +3,4 @@ esxCores,4,String,Default number of cores for nested hosts.
 esxRAM,48,String,Amount of RAM in GB for nested ESXi hosts.
 esxvSANCache01,30,String,vSAN cache disk size in GB.
 esxvSANCapacity01,180,String,vSAN capacity disk size in GB.
-esxScratchHD,4,String,Capacity size for nested host local scratch volume in GB.
+esxScratchHD,8,String,Capacity size for nested host local scratch volume in GB.
